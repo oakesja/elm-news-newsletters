@@ -1,0 +1,37 @@
+{
+  "start_date": "July 15",
+  "end_date": "July 31",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/u66_K3AbqIM/CO9cidACBwAJ",
+      "title": "Thoughts on 0.18",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/klu1gg7Snwk/EdR8zMcZAwAJ",
+      "title": "Architecture Advice",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/JpMpeI5KPB0/lL1M8vRLBQAJ",
+      "title": "Elm Remote Meetup #2 videos, broken out by talk",
+      "author": "Josh Adama",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/YbofTHSXLGY/2hNnpbU9BQAJ",
+      "title": "Unit Types : A Radical Proposal",
+      "author": "John Bugner",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/0SD7nyYymc4/WKqZNm4dBgAJ",
+      "title": "A proposal for a new way to do CSS in Elm",
+      "author": "Peter Damoc",
+      "tag": "elm-discuss"
+    }
+  ]
+}

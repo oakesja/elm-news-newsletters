@@ -1,0 +1,37 @@
+{
+  "start_date": "July 4",
+  "end_date": "July 10",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/86tayyRFiV8/LqU7Y_AtBwAJ",
+      "title": "Status Report",
+      "author": "Evan Czaplicki",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/gVY5DmZOR9s/LQjPMUuWCQAJ",
+      "title": "Draft blog post - \"How to Use Elm at Work\" - looking for feedback",
+      "author": "Evan Czaplicki",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/4NF09VKH2Ms/BKz0mCvaCQAJ",
+      "title": "An Evidence-Oriented Programming approach to designing",
+      "author": "Charlie Koster",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/forum/#!searchin/elm-discuss/blob/elm-discuss/g65pRzgqkvo/ilooowjDCQAJ",
+      "title": "What would need to happen to implement Blob/File in Elm.http",
+      "author": "Daniel Bachler",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/H1AUQelu78c/rokETXXRCQAJ",
+      "title": "Sending messages up the component tree in Elm 0.17",
+      "author": "Sandi Dušić",
+      "tag": "elm-discuss"
+    }
+  ]
+}

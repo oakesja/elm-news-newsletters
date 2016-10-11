@@ -1,0 +1,48 @@
+{
+  "start_date": "September 12",
+  "end_date": "September 18",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "http://techbeacon.com/5-emerging-programming-languages-bright-future",
+      "title": "5 emerging programming languages with a bright future—including Elm",
+      "author": "friendlytuna",
+      "tag": "reddit"
+    },
+    {
+      "url": "https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b",
+      "title": "Move fast and don’t break things. Running a startup on Elm",
+      "author": "many",
+      "tag": "medium"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/vvJGw1u7NVQ/HiNvSZyHAAAJ",
+      "title": "Proposal for a 1st-class, officially-supported CSS package",
+      "author": "suttlecommakevin",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://www.alexmingoia.com/purescript-pux/index.html",
+      "title": "Purescript Pux – Elm Architecture for Purescript",
+      "author": "anonymid",
+      "tag": "hackernews"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/9GEKEyzyW_U/UL6l881qAQAJ",
+      "title": "What languages do you write your back-ends in?",
+      "author": "Mario Sangiorgio",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://freakingawesome.github.io/drunk-label/",
+      "title": "DrunkLabel: An Elm component that mistypes for you",
+      "author": "freakingawesome_net",
+      "tag": "reddit"
+    },
+    {
+      "url": "http://rundis.github.io/blog/2016/elm_light_ast.html",
+      "title": "Elm Light 0.4.0 – AST Driven Elm Features in Light Table Using PEG.js",
+      "description": "From the curator :)"
+    }
+  ]
+}

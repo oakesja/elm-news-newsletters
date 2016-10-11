@@ -1,0 +1,37 @@
+{
+  "start_date": "October 3",
+  "end_date": "October 9",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/-hU3DnDXLh4/vWS96fjFBgAJ",
+      "title": "typed-format 1.0.0",
+      "author": "enetsee",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/DjsnRPfHYN8/n2VT4JHZBgAJ",
+      "title": "Teaching children Elm",
+      "author": "Fedor Nezhivoi",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/RbF_EgacGSM/cdx1wf7kAQAJ",
+      "title": "Which text editor do you prefer for Elm?",
+      "author": "Rupert Smith",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/00CgYDiMvBI/yy3SnzlVAQAJ",
+      "title": "No Runtime Exceptions - Still not computing",
+      "author": "Dave Ford",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/e6MXbVV8mqA/6zJm22rsAQAJ",
+      "title": "Anyone working on audio stuff?",
+      "author": "ratvis",
+      "tag": "elm-discuss"
+    }
+  ]
+}

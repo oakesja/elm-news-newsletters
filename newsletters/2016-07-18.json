@@ -1,0 +1,37 @@
+{
+  "start_date": "July 11",
+  "end_date": "July 17",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://www.gitbook.com/book/johncrane/ninety-nine-elm-problems/details",
+      "title": "99 elm problems, challenge",
+      "author": "yanis-urbis",
+      "tag": "hacker news"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/VVhf-oF6OHE/8dvXTFYaCAAJ",
+      "title": "Shuffling guide and benchmarks",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/r0yEcmbHyDo/_hD4WWXhBwAJ",
+      "title": "Final draft of \"How to Use Elm at Work\"",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/tjsO1hgV0gk/fKStkuhtCAAJ",
+      "title": "Projects list",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/WBRzVR9_tjA/kPb64qeBAAAJ",
+      "title": "I dislike the names of certain standard library functions.",
+      "author": "John Bugner",
+      "tag": "elm-discuss"
+    }
+  ]
+}

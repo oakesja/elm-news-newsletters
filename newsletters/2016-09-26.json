@@ -1,0 +1,41 @@
+{
+  "start_date": "September 19",
+  "end_date": "September 25",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/2RTddO_4rLw/b6VXqZd0AgAJ",
+      "title": "Elm, Objects and Components",
+      "author": "Peter Damoc",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/2H52cFos-so/PQwhKtbWAgAJ",
+      "title": "Status Report - 20 September 2016",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/odfyxZPmIyI/57s-rLpXAgAJ",
+      "title": "Post mortem for my first attempt at using Elm in a real app.",
+      "author": "Peter Damoc",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "http://gilesbowkett.blogspot.com/2016/09/elm-is-new-rails.html",
+      "title": "Elm is the new rails",
+      "description": "From gilesbowkett.blogspot.com"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/r9OO-BLkcCA/cRoTvixnAgAJ",
+      "title": "Looking for feadback on API design for my upcoming 2d game library",
+      "author": "Zinggi",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd",
+      "title": "Elm conf videos",
+      "description": "On YouTube"
+    }
+  ]
+}

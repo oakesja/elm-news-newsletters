@@ -1,0 +1,31 @@
+{
+  "start_date": "August 29",
+  "end_date": "September 4",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/ZZP2rFbB3wQ/zCNWnU87CQAJ",
+      "title": "When to use Dict vs. List?",
+      "author": "Brian John Farrar",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://www.reddit.com/r/elm/comments/50jnbe/guess_my_age/",
+      "title": "Guess my age game",
+      "author": "guid75",
+      "tag": "reddit"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/lC4FwHSPUA0/ZYzQZDtsBwAJ",
+      "title": "Do the counters in the Guide teach us a wrong scaling approach?",
+      "author": "Wouter In t Velt",
+      "tag": "elm-dicuss"
+    },
+    {
+      "url": "https://www.reddit.com/r/elm/comments/50fs7c/a_new_book_on_testing_elm/",
+      "title": "A new book on testing elm",
+      "author": "get-finch",
+      "tag": "reddit"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "start_date": "September 5",
+  "end_date": "September 11",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/aepZOa38Cmg/NDF8V9IoAQAJ",
+      "title": "Status Report - 5 Sept 2016",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/_UlLw7-GYx8/9fXKjaFEAQAJ",
+      "title": "Private state: A contrived example",
+      "author": "Mark Hamburg",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/f-jpwb6IlvY/mSAdrGXVAAAJ",
+      "title": "html-to-elm",
+      "author": "Rupert Smith",
+      "tag": "elm-dicuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/9GEKEyzyW_U/UL6l881qAQAJ",
+      "title": "What languages do you write your back-ends in?",
+      "author": "Mario Sangiorgio",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/UWzMZ9VCbyg/3hGl9T4fAAAJ",
+      "title": "Announcing elm-test 2.1.0!",
+      "author": "Max Goldstein",
+      "tag": "elm-discuss"
+    }
+  ]
+}

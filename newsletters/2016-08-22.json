@@ -1,0 +1,37 @@
+{
+  "start_date": "August 15",
+  "end_date": "August 21",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/nTQ3mWpoPoc/nkxizr4VBAAJ",
+      "title": "Elm UI boilerplate",
+      "author": "Peter Damoc",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/7iUYV0KMvJc/gyem9xEOCwAJ",
+      "title": "Splitting 0.18 into smaller parts / major HTML version",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://github.com/halfzebra/elm-examples",
+      "title": "Practical examples in Elm",
+      "author": "halfzebra",
+      "tag": "reddit"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/-e27G4vwjGY/6N-RErBiBAAJ",
+      "title": "Remove ways of importing except `import exposing (..)`?",
+      "author": "Will White",
+      "tag": "elm-dicuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/u3J2eSThkjw/O9jQjykdBAAJ",
+      "title": "We need a clearer story on architecture",
+      "author": "Oliver Searle-Barnes",
+      "tag": "elm-dicuss"
+    }
+  ]
+}

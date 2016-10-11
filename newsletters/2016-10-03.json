@@ -1,0 +1,36 @@
+{
+  "start_date": "September 26",
+  "end_date": "October 2",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/VwwWH82HCv0/a4bY6wz_BQAJ",
+      "title": "Status Report - 28 September 2016",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/RfxkV-p7ApA/6YmlEEjyBQAJ",
+      "title": "Online REPL",
+      "description": "Created by Girish Sonawane"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/vgNARkyhW5Q/ScSfjhZSBAAJ",
+      "title": "Does CSS model the right problem?",
+      "author": "Duane Johnson",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/yFVXw61zyJI/6e3QJOVaBgAJ",
+      "title": "Draft of Http library",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/XW-SRfbzQ94/hSw3Uhw9BQAJ",
+      "title": "Is a decoder the right level of abstraction for parsing JSON?",
+      "author": "Kasey Speakman",
+      "tag": "elm-discuss"
+    }
+  ]
+}

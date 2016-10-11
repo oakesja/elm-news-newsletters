@@ -1,0 +1,37 @@
+{
+  "start_date": "July 18",
+  "end_date": "July 24",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "http://courses.knowthen.com/courses/elm-for-beginners",
+      "title": "FREE ELM COURSE! YAY!",
+      "author": "yanis-urbis",
+      "tag": "hacker news"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/ThkWudq7SF0/ZH14s91zCQAJ",
+      "title": "Expanding the Dom API",
+      "author": "Richard Feldman",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/He_emRjsly8/p90HxwSeCgAJ",
+      "title": "Help improve the List library",
+      "author": "Evan Czaplick",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/i99LBvYSkpY/yQyk6WB0AAAJ",
+      "title": "Inter-Component Communication in 0.17",
+      "author": "Erik Lott",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/vpctWZsltwo/0zHRmng7AgAJ",
+      "title": "Scrolling to bottom of div",
+      "author": "Wayne Choi",
+      "tag": "elm-discuss"
+    }
+  ]
+}

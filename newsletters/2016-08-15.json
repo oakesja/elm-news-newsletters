@@ -1,0 +1,25 @@
+{
+  "start_date": "August 1",
+  "end_date": "August 7",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/_cfOu88oCx4/b2XLhw-zBwAJ",
+      "title": "Design of Large Elm apps",
+      "author": "Ryan Erb",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/fiI_xkZTPK4/aDmSCua0CAAJ",
+      "title": "Focus and Scrolling",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://www.reddit.com/r/elm/comments/4wuv7k/do_superimmutable_fields_exist_or_would_it_be_a/",
+      "title": "Do super-immutable fields exist, or would it be a good idea if they don't?",
+      "author": "elmentary",
+      "tag": "reddit"
+    }
+  ]
+}

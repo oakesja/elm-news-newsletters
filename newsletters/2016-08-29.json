@@ -1,0 +1,31 @@
+{
+  "start_date": "August 22",
+  "end_date": "August 28",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/MK6_cmwvs7g/i9BpM2PVCwAJ",
+      "title": "Composability without extensible records",
+      "author": "Charles-Edouard Cady",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/0MHCH70tzGo/2OjXBRX2BQAJ",
+      "title": "Elm's support for old browsers",
+      "author": "Max Froumentin",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/5bDvM5FlhfU/CyPCC0smCgAJ",
+      "title": "Declarative focus management API proposal",
+      "author": "Irakli Gozalishvili",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/WR7iMlA9Z-o/h4DoWEh2BwAJ",
+      "title": "Elm Package Skimmer",
+      "author": "Matthew Griffith",
+      "tag": "elm-dicuss"
+    }
+  ]
+}
