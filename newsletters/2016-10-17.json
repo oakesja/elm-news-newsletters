@@ -1,0 +1,37 @@
+{
+  "start_date": "October 10",
+  "end_date": "October 16",
+  "year": "2016",
+  "articles": [
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/LZslB1keLhE/C7ltfjnTAgAJ",
+      "title": "0.18 alpha",
+      "author": "Evan Czaplicki",
+      "tag": "elm-dev"
+    },
+    {
+      "url": "https://gist.github.com/spicydonuts/0c09596c1f27d517e9fe",
+      "title": "Elm vs. PureScript",
+      "author": "josebaez",
+      "tag": "hacker news"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/LG6dyMn8_6s/uoTBvLYuBAAJ",
+      "title": "Good Vibes",
+      "author": "John Orford",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-discuss/nUz5GUXm9-M/twfJZqo6AwAJ",
+      "title": "Getting functions out of the model",
+      "author": "Aaron VonderHaar",
+      "tag": "elm-discuss"
+    },
+    {
+      "url": "https://groups.google.com/d/msg/elm-dev/PSHmb6Id7eI/iHH3qAPpAgAJ",
+      "title": "Sequencing with andThen is less clear in 0.18 than in previous versions",
+      "author": "Bogdan Popa",
+      "tag": "elm-dev"
+    }
+  ]
+}
