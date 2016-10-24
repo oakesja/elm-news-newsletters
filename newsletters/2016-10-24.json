@@ -1,0 +1,49 @@
+{
+    "start_date": "October 17",
+    "end_date": "October 23",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/K1-P4I9TyBE/iC8u4YbgBAAJ",
+            "hits": "16",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "About --debug"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/58h9bt/using_elm_for_a_game_ui/",
+            "hits": "12",
+            "author": "FredyC",
+            "tag": "reddit",
+            "title": "Using elm for a game UI"
+        },
+        {
+            "url": "https://twitter.com/ckolderup/status/789002880246177792",
+            "hits": "11",
+            "author": "ckolderup",
+            "tag": "twitter",
+            "title": "Elm 1+2: can't download X"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/6XJQydHCAeg/q1NejuYjBgAJ",
+            "hits": "9",
+            "author": "Florian Zinggeler",
+            "tag": "elm-dev",
+            "title": "Replacing elm-community/elm-linear-algebra"
+        },
+        {
+            "url": "https://elmtown.github.io/2016/10/21/json-street-elm-town-episode-3.html",
+            "hits": "8",
+            "author": "splodingsocks",
+            "tag": "reddit",
+            "title": "JSON Street, Elm Town Episode 3"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/LXf7ef23tPE/mahQL52gBAAJ",
+            "hits": "8",
+            "author": "John Hewson",
+            "tag": "elm-discuss",
+            "title": "elm-graphql 1.0 released"
+        }
+    ]
+}
