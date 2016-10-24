@@ -1,4 +1,9 @@
-How to 
+# Dependencies
+```
+sudo pip install --upgrade google-api-python-client
+```
+
+# How to
 - Create new .json in newsletters
 - Update date
 - Change articles
