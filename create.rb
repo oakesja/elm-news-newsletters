@@ -20,3 +20,4 @@ class Newsletter
 end
 
 Newsletter.new(ARGV[0]).build
+`xdg-open output.html`
