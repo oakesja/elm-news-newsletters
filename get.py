@@ -78,9 +78,12 @@ def get_report(analytics):
                         {
                             "name": "ga:dimension1"
                         },
-                        # {
-                        #     "name": "ga:dimension2"
-                        # }
+                        {
+                            "name": "ga:dimension2"
+                        },
+                        {
+                            "name": "ga:dimension3"
+                        }
                     ],
                     "orderBys": [
                         {
@@ -101,11 +104,12 @@ def get_top_news(response):
     for row in rows:
         dimensions = row.get('dimensions', [])
         totalEvents = row.get('metrics', [])[0].get('values', [])[0]
+        print dimensions
         topNewsArticle = {
             "url": dimensions[0],
             "title": dimensions[1],
-            "author": "",
-            "tag": "",
+            "author": dimensions[3],
+            "tag": dimensions[2],
             "hits": totalEvents
         }
         articles.append(topNewsArticle)
@@ -129,7 +133,8 @@ def output_top_news(articles):
         ("year", str(datetime.date.today().year)),
         ("articles", articles)
     ])
-    with open('test.json', 'w') as outfile:
+    filename = "newsletters/{:%Y-%m-%d}.json".format(datetime.date.today())
+    with open(filename, 'w') as outfile:
         json.dump(news, outfile, indent=4, separators=(',', ': '))
 
 

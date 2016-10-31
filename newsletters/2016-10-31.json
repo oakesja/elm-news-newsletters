@@ -1,0 +1,42 @@
+{
+    "start_date": "October 24",
+    "end_date": "October 30",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/8yKq7c_VAkU/x8MaS9PKAQAJ",
+            "hits": "13",
+            "author": "Aaron VonderHaar",
+            "tag": "elm-dev",
+            "title": "elm-format for Elm 0.18"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/59c89v/elm_command_line_tool/",
+            "hits": "12",
+            "author": "get-finch",
+            "tag": "reddit",
+            "title": "Elm command line tool"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/59t35u/beta_version_of_the_elmtest_book_goes_live_on/",
+            "hits": "12",
+            "author": "get-finch",
+            "tag": "reddit",
+            "title": "Beta version of the Elm-Test book goes live on Monday"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/dobMWH7nKYQ/AnVI-3QhAQAJ",
+            "hits": "11",
+            "author": "Robin Heggelund Hansen",
+            "tag": "elm-dev",
+            "title": "Elm Arrays: Status update 28.10"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/2GX6L4SGVwA/sRQWnTadBwAJ",
+            "hits": "11",
+            "author": "Matthew Griffith",
+            "tag": "elm-discuss",
+            "title": "The Style Elements Library: a different approach to styling"
+        }
+    ]
+}
