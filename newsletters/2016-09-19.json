@@ -42,7 +42,8 @@
     {
       "url": "http://rundis.github.io/blog/2016/elm_light_ast.html",
       "title": "Elm Light 0.4.0 – AST Driven Elm Features in Light Table Using PEG.js",
-      "description": "From the curator :)"
+      "description": "From the curator :)",
+      "tag": "github"
     }
   ]
 }

@@ -24,7 +24,8 @@
     {
       "url": "http://gilesbowkett.blogspot.com/2016/09/elm-is-new-rails.html",
       "title": "Elm is the new rails",
-      "description": "From gilesbowkett.blogspot.com"
+      "description": "From gilesbowkett.blogspot.com",
+      "tag": "hacker news"
     },
     {
       "url": "https://groups.google.com/d/msg/elm-discuss/r9OO-BLkcCA/cRoTvixnAgAJ",
@@ -35,7 +36,8 @@
     {
       "url": "https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd",
       "title": "Elm conf videos",
-      "description": "On YouTube"
+      "description": "On YouTube",
+      "tag": "YouTube"
     }
   ]
 }
