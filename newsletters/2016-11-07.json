@@ -1,0 +1,42 @@
+{
+    "start_date": "October 31",
+    "end_date": "November 06",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5b33wl/elm_018_and_andthen/",
+            "hits": "19",
+            "author": "iloveelmbut",
+            "tag": "reddit",
+            "title": "Elm 0.18 and andThen"
+        },
+        {
+            "url": "http://elmplayground.com/building-the-elm-playground",
+            "hits": "16",
+            "author": "jackfranklin",
+            "tag": "reddit",
+            "title": "Elm Playground: a new Elm blog, built in Elm"
+        },
+        {
+            "url": "https://github.com/naddeoa/elm-tutorials-and-examples/tree/master/unions-instead-of-records",
+            "hits": "15",
+            "author": "antman8969",
+            "tag": "reddit",
+            "title": "Comparing API Implementations: Exposing Union Types vs Exposing Records"
+        },
+        {
+            "url": "https://github.com/nmk/elm-highcharts-demo",
+            "hits": "11",
+            "author": "nmkolev",
+            "tag": "reddit",
+            "title": "Integrating Highcharts in Elm 0.17 projects"
+        },
+        {
+            "url": "https://terezka.github.io/elm-plot/",
+            "hits": "11",
+            "description": "Created by terezka",
+            "tag": "github",
+            "title": "elm-plot"
+        }
+    ]
+}

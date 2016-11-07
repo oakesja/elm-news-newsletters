@@ -97,14 +97,12 @@ def get_report(analytics):
 
 
 def get_top_news(response):
-    """Parses and prints the Analytics Reporting API V4 response"""
     report = response.get('reports', [])[0]
     rows = report.get('data', {}).get('rows', [])
     articles = []
     for row in rows:
         dimensions = row.get('dimensions', [])
         totalEvents = row.get('metrics', [])[0].get('values', [])[0]
-        print dimensions
         topNewsArticle = {
             "url": dimensions[0],
             "title": dimensions[1],
