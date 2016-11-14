@@ -1,0 +1,49 @@
+{
+    "start_date": "November 07",
+    "end_date": "November 13",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "http://reasonablypolymorphic.com/blog/elm-is-wrong",
+            "hits": "21",
+            "title": "Elm is Wrong",
+            "author": "Sandy Maguire",
+            "tag": "Hacker News"
+        },
+        {
+            "url": "https://hackernoon.com/a-small-dive-into-and-rejection-of-elm-8217fd5da235#.ehbgeq3rf",
+            "hits": "21",
+            "title": "A small dive into, and rejection of, Elm",
+            "author": "Anders Hovmöller",
+            "tag": "Hacker News"
+        },
+        {
+            "url": "http://www.gizra.com/content/elm-business-perspective/",
+            "hits": "14",
+            "author": "gelisam",
+            "tag": "reddit",
+            "title": "Elm from a Business Perspective"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5cq88y/ide_with_hot_swapping/",
+            "hits": "12",
+            "author": "1UnitedPower",
+            "tag": "reddit",
+            "title": "IDE with \"hot swapping\"."
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5c67no/learning_web_development_with_elm_from_scratch/",
+            "hits": "11",
+            "author": "NeuromancerNoob007",
+            "tag": "reddit",
+            "title": "Learning web development with Elm from Scratch"
+        },
+        {
+            "url": "https://gist.github.com/dennisreimann/fe2cc20ea7cb6ea60483c1d758b2d891",
+            "hits": "10",
+            "author": "dennisreimann",
+            "tag": "github",
+            "title": "A reaction to the article \"A small dive into, and rejection of, Elm\""
+        }
+    ]
+}
