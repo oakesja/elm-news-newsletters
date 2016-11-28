@@ -1,0 +1,42 @@
+{
+    "start_date": "November 14",
+    "end_date": "November 20",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/XS_IdIUnLsw/nysxMtJkBgAJ",
+            "hits": "19",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Elm 0.18 Release"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/UeniRWg4_I8/Mr4O2-HUBgAJ",
+            "hits": "18",
+            "author": "Brian Hicks",
+            "tag": "elm-dev",
+            "title": "State of Elm 2017 - Planning"
+        },
+        {
+            "url": "https://dennisreimann.de/articles/elm-atom-editor.html",
+            "hits": "16",
+            "author": "dennisreimann",
+            "tag": "reddit",
+            "title": "Atom Plugins for Elm Development"
+        },
+        {
+            "url": "https://medium.com/@yousefkama/i-tried-elm-it-was-a-nightmare-f5d0daeb9386",
+            "hits": "14",
+            "author": "mastermooo",
+            "tag": "reddit",
+            "title": "I tried Elm &amp; it was a nightmare."
+        },
+        {
+            "url": "https://github.com/johnomarkid/elm-electron-webpack",
+            "hits": "11",
+            "author": "johnomarkid",
+            "tag": "reddit",
+            "title": "Build Desktop Apps with Elm, Electron, Webpack - Updated to 0.18"
+        }
+    ]
+}
