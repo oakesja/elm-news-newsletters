@@ -1,0 +1,35 @@
+{
+    "start_date": "November 21",
+    "end_date": "November 27",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://github.com/darrensiegel/elm-chess",
+            "hits": "16",
+            "author": "dsiegel2275",
+            "tag": "Hacker News",
+            "title": "Show HN: Chess in Elm"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/koIwGaRENhU/IeZJSbvhBwAJ",
+            "hits": "13",
+            "author": "Peter Damoc",
+            "tag": "elm-discuss",
+            "title": "What Elm needs to move forward"
+        },
+        {
+            "url": "https://medium.com/@kkruups/elm-insights-c067c66161bb#.462de69jz",
+            "hits": "12",
+            "author": "kkruups",
+            "tag": "reddit",
+            "title": "elm Insights: Farewell Backticks, Hello Pipeline!"
+        },
+        {
+            "url": "https://www.bignerdranch.com/blog/elm-enlightenment-raycasting-with-bresenhams-algorithm/",
+            "hits": "12",
+            "author": "ingve",
+            "tag": "Hacker News",
+            "title": "Elm Enlightenment: Raycasting with Bresenham's Algorithm"
+        }
+    ]
+}
