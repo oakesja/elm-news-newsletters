@@ -9,6 +9,7 @@ class Newsletter
     @twitter_url = 'https://twitter.com/elmlangnews'
     @gitub_issues_url = 'https://github.com/oakesja/elm-news/issues'
     @articles = JSON.parse(File.read(articles_file))
+    @now = Time.now.strftime('%F')
   end
 
   def build

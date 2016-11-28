@@ -145,7 +145,7 @@
 </head>
 
 <body bgcolor="#f6f6f6">
-<img src="http://www.google-analytics.com/collect?v=1&tid=UA-79825426-1&cid=312a4506-2955-4147-aa6d-45af8b6858f3&t=event&ec=email&ea=open&el=<%= Time.now.strftime('%F') %>"/>
+<img src="http://www.google-analytics.com/collect?v=1&tid=UA-79825426-1&cid=312a4506-2955-4147-aa6d-45af8b6858f3&t=event&ec=email&ea=open&el=<%= @now %>"/>
 <table class="body-wrap" bgcolor="#f6f6f6">
   <tr>
     <td></td>
@@ -169,7 +169,7 @@
           <tr>
             <td>
               <% @articles['articles'].each do |article| %>
-                  <p><a class="news" href="<%= article['url'] %>"><%= article['title'] %></a>
+                  <p><a class="news" href="<%= "#{@home_page}/redirect?url=#{article['url'].chomp('/')}&label=#{@now}" %>"><%= article['title'] %></a>
                     <br/>
                     <%= article['description'] ? article['description'] : "By #{article['author']} on #{article['tag']}" %>
                   </p>
