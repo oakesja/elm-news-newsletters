@@ -1,0 +1,35 @@
+{
+    "start_date": "November 28",
+    "end_date": "December 04",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/EeVeNo5VNio/cD235S_4CgAJ",
+            "hits": "24",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Status Report"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5g3540/the_elm_alienation/",
+            "hits": "15",
+            "author": "kralyk",
+            "tag": "reddit",
+            "title": "The Elm Alienation"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/4jO8IfppWBY/lDx57lLgCQAJ",
+            "hits": "14",
+            "author": "Duane Johnson",
+            "tag": "elm-discuss",
+            "title": "Svelte for components?"
+        },
+        {
+            "url": "https://www.jobsinnew.tech/langs/elm",
+            "hits": "12",
+            "author": "pas_mtts",
+            "tag": "reddit",
+            "title": "Jobs in emerging programming languages - Elm"
+        }
+    ]
+}
