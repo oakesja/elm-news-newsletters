@@ -1,0 +1,49 @@
+{
+    "start_date": "December 05",
+    "end_date": "December 11",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/sjTl65bT1xo/zshESXkYDAAJ",
+            "hits": "17",
+            "author": "Duane Johnson",
+            "tag": "elm-discuss",
+            "title": "launchaco built in Elm"
+        },
+        {
+            "url": "http://elmprogramming.com/",
+            "hits": "15",
+            "author": "brnhx",
+            "tag": "reddit",
+            "title": "Beginning Elm"
+        },
+        {
+            "url": "http://get-finch.com/2016/12/05/maybes_as_a_code_smell.html",
+            "hits": "13",
+            "author": "get-finch",
+            "tag": "reddit",
+            "title": "Maybes as a Code Smell"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/_39n7baf2Z0/HLcYHJPBCwAJ",
+            "hits": "10",
+            "author": "Michael Whitehead",
+            "tag": "elm-discuss",
+            "title": "Hiring An Elm Developer at BigSquid"
+        },
+        {
+            "url": "http://get-finch.com/2016/12/07/in_elm_watch_out_for_the_string_type.html",
+            "hits": "8",
+            "author": "get-finch",
+            "tag": "reddit",
+            "title": "Watch out for raw types like String and Int"
+        },
+        {
+            "url": "https://elmtown.github.io/2016/12/01/The-Founding-Story-Ep-6.html",
+            "hits": "8",
+            "author": "splodingsocks",
+            "tag": "reddit",
+            "title": "Elm Town, Episode 6 (A Founding Story)"
+        }
+    ]
+}

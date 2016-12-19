@@ -10,6 +10,7 @@ from oauth2client import tools
 import json
 import datetime
 from collections import OrderedDict
+from subprocess import call
 
 
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
@@ -141,6 +142,8 @@ def main():
     response = get_report(analytics)
     news = get_top_news(response)
     output_top_news(news)
+    for new in news:
+        call(["xdg-open", new["url"]])
 
 if __name__ == '__main__':
     main()

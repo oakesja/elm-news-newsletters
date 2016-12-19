@@ -1,0 +1,28 @@
+{
+    "start_date": "December 12",
+    "end_date": "December 18",
+    "year": "2016",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/A1FDy820DdA/0nLvSUTSDQAJ",
+            "hits": "17",
+            "author": "Manu Rosa",
+            "tag": "elm-discuss",
+            "title": "Design concepts. Too many Msg's?"
+        },
+        {
+            "url": "https://github.com/pzavolinsky/elmx",
+            "hits": "12",
+            "author": "jagtesh",
+            "tag": "Hacker News",
+            "title": "Elmx: JSX for Elm"
+        },
+        {
+            "url": "https://medium.com/@wintvelt/how-to-make-impossible-states-impossible-c12a07e907b5",
+            "hits": "8",
+            "author": "wintvelt",
+            "tag": "reddit",
+            "title": "Article: comparison of different approaches to make impossible states impossible - using a simple example"
+        }
+    ]
+}
