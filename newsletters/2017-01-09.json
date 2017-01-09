@@ -1,0 +1,35 @@
+{
+    "start_date": "January 02",
+    "end_date": "January 08",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/-qGgYTKyAS8/deuXf0W3DAAJ",
+            "hits": "14",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "One binary to rule them all?"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/rg3fzdyG_VU/mBPkYxobFAAJ",
+            "hits": "13",
+            "author": "Evan",
+            "tag": "elm-discuss",
+            "title": "Emphasizing /r/elm more"
+        },
+        {
+            "url": "https://toast.al/posts/2017-01-01-anatomy-of-maybe-part-ii-functor.html",
+            "hits": "12",
+            "author": "toastal",
+            "tag": "reddit",
+            "title": "Anatomy of Maybe - Part II: Functor"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5ls1jd/discussion_web_components_in_elm/",
+            "hits": "11",
+            "author": "jediknight",
+            "tag": "reddit",
+            "title": "[discussion] - Web Components in Elm"
+        }
+    ]
+}
