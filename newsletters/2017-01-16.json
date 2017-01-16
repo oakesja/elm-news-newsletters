@@ -1,0 +1,49 @@
+{
+    "start_date": "January 09",
+    "end_date": "January 15",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "http://www.cas.mcmaster.ca/~anand/ThinkingComputationallyWithElm.pdf",
+            "hits": "17",
+            "author": "myth_drannon",
+            "tag": "Hacker News",
+            "title": "Thinking Computationally with Elm \u2013 Free Ebook[pdf]"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/zkaglWyBDJ4/DEi85lgZAgAJ",
+            "hits": "14",
+            "author": "Jakub Hampl",
+            "tag": "elm-dev",
+            "title": "Better SVG Library"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/lwov7jRMcS8/9PBArPA5AgAJ",
+            "hits": "13",
+            "author": "Pablo Hirafuji",
+            "tag": "elm-dev",
+            "title": "Pure Elm markdown"
+        },
+        {
+            "url": "https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99",
+            "hits": "12",
+            "author": "rofrol",
+            "tag": "reddit",
+            "title": "Elm best practices - my knowledge gathered in one gist"
+        },
+        {
+            "url": "https://toast.al/posts/2017-01-13-playing-with-prisms-for-the-not-so-isomorphic.html",
+            "hits": "12",
+            "author": "toastal",
+            "tag": "reddit",
+            "title": "Playing With Prisms: For the Not-So-Isomorphic"
+        },
+        {
+            "url": "https://github.com/ohanhi/elm-taco",
+            "hits": "10",
+            "author": "ericgj",
+            "tag": "reddit",
+            "title": "ohanhi/elm-taco: a simple concept for managing common information in large Elm SPAs."
+        }
+    ]
+}
