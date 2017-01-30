@@ -1,0 +1,42 @@
+{
+    "start_date": "January 23",
+    "end_date": "January 29",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://elmtown.github.io/2017/01/24/Arriving-in-Elm-Town-Ep-9.html",
+            "hits": "19",
+            "author": "splodingsocks",
+            "tag": "reddit",
+            "title": "Arriving in Elm Town - Episode 9"
+        },
+        {
+            "url": "http://elm-ui.info",
+            "hits": "18",
+            "author": "jagtesh",
+            "tag": "Hacker News",
+            "title": "Elm-UI - A Beautiful User Interface Library for Elm"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/GtAHuYzV72I/Sgg2IxVJBgAJ",
+            "hits": "16",
+            "author": "Peter Damoc",
+            "tag": "elm-discuss",
+            "title": "Using Elm on the server (full stack Elm webapps )"
+        },
+        {
+            "url": "https://medium.com/@markwunsch/five-months-of-gamedev-with-elm-62be2de75ca2#.470qmqoeb",
+            "hits": "13",
+            "author": "wunschkraft",
+            "tag": "reddit",
+            "title": "Five Months of Gamedev with Elm"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/azoVLSqcsxM/Z-vX4oysBgAJ",
+            "hits": "12",
+            "author": "Brian Hicks",
+            "tag": "elm-discuss",
+            "title": "Benchmarking with no JavaScript dependencies"
+        }
+    ]
+}

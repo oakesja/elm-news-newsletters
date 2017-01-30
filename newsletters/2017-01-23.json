@@ -1,0 +1,35 @@
+{
+    "start_date": "January 16",
+    "end_date": "January 22",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://drive.google.com/file/d/0B9PsNVbHIdPqTEtvQzM3Q2hDYms/view",
+            "hits": "16",
+            "author": "michaelchisari",
+            "tag": "Hacker News",
+            "title": "Experiences with Elm on a Small Production Application"
+        },
+        {
+            "url": "https://dev.to/rtfeldman/i-am-the-author-of-elm-in-action-ask-me-anything",
+            "hits": "13",
+            "author": "bhalp1",
+            "tag": "reddit",
+            "title": "I am the author of Elm in Action. Ask Me Anything! (Richard Feldman's AMA)"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/aKZD9VrJrbE/h2nTA855BAAJ",
+            "hits": "13",
+            "author": "Bogdan Popa",
+            "tag": "elm-discuss",
+            "title": "Maintainers wanted"
+        },
+        {
+            "url": "https://chriswellswood.github.io/#blog/creating-simple-reusable-view-modules",
+            "hits": "12",
+            "author": "ChrisWellsWood",
+            "tag": "reddit",
+            "title": "Creating a Simple Reusable View Module in Elm"
+        }
+    ]
+}
