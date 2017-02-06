@@ -1,0 +1,49 @@
+{
+    "start_date": "January 30",
+    "end_date": "February 05",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5rfit4/elm_in_production_stories/",
+            "hits": "20",
+            "author": "gagepeterson",
+            "tag": "reddit",
+            "title": "Elm in production stories"
+        },
+        {
+            "url": "https://medium.com/elm-shorts/choosing-the-right-elm-spa-architecture-d6e8275f6899?source=linkShare-df5e2683a420-1485725963",
+            "hits": "15",
+            "author": "wintvelt",
+            "tag": "reddit",
+            "title": "Choosing the right Elm SPA architecture"
+        },
+        {
+            "url": "https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/",
+            "hits": "14",
+            "author": "thomas11",
+            "tag": "Hacker News",
+            "title": "Using Elm in Production at Pivotal Tracker"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/5eEbnwzbQvo/6cuwGMpyCAAJ",
+            "hits": "13",
+            "author": "Rupert Smith",
+            "tag": "elm-discuss",
+            "title": "Which editor do you like best for Elm?"
+        },
+        {
+            "url": "http://sebastianporto.com/blog/posts/2017/from-react-to-elm/",
+            "hits": "12",
+            "author": "antouank",
+            "tag": "Hacker News",
+            "title": "From React to Elm"
+        },
+        {
+            "url": "https://medium.com/@Max_Goldstein/what-does-it-mean-to-use-elm-cbf00d6bdfa5#.4nfegxm2e",
+            "hits": "12",
+            "author": "m_gold",
+            "tag": "reddit",
+            "title": "What does it mean to use Elm?"
+        }
+    ]
+}
