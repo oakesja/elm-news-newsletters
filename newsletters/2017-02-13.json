@@ -1,0 +1,42 @@
+{
+    "start_date": "February 06",
+    "end_date": "February 12",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://frontendmasters.com/courses/elm/",
+            "hits": "31",
+            "author": "joshtgreenwood",
+            "tag": "reddit",
+            "title": "Frontend Masters Releases Elm Course by Richard Feldman"
+        },
+        {
+            "url": "https://www.humblespark.com/ellie-announcement/",
+            "hits": "27",
+            "author": "bpierre",
+            "tag": "Hacker News",
+            "title": "Ellie \u2013 An Elm Live Editor"
+        },
+        {
+            "url": "https://dev.to/martincerny/what-elm-and-rust-teach-us-about-the-future",
+            "hits": "20",
+            "author": "bhalp1",
+            "tag": "Hacker News",
+            "title": "What Elm and Rust Teach Us About the Future"
+        },
+        {
+            "url": "http://elmprogramming.com/type-system.html",
+            "hits": "15",
+            "author": "sparxdragon",
+            "tag": "reddit",
+            "title": "Elm Programming - New Chapter - Type System"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/-_YY72jJQD0/xH0ywAaNDwAJ",
+            "hits": "14",
+            "author": "Brian Hicks",
+            "tag": "elm-dev",
+            "title": "AVL trees vs Red/Black trees for Dicts and Sets"
+        }
+    ]
+}
