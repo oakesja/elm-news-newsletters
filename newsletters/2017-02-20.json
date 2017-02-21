@@ -1,0 +1,42 @@
+{
+    "start_date": "February 13",
+    "end_date": "February 19",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "http://www.gizra.com/team/",
+            "hits": "28",
+            "author": "amitaibu",
+            "tag": "Hacker News",
+            "title": "Show HN: \u201cTeam\u201d page built with Elm"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5tult0/could_elm_make_use_of_llvm/",
+            "hits": "25",
+            "author": "Ford_O",
+            "tag": "reddit",
+            "title": "Could Elm make use of LLVM?"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5tuknu/elmmdl_dynamic_menu_in_ellie/",
+            "hits": "18",
+            "author": "greenail",
+            "tag": "reddit",
+            "title": "elm-mdl dynamic menu in ellie"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/kBEWty5Pzuk/UaSszth3EAAJ",
+            "hits": "17",
+            "author": "W. Brian Gourlie",
+            "tag": "elm-dev",
+            "title": "Websockets 2.0.0 Proposal"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5uqa13/those_fancy_date_pickers_in_elm_watch_this_no/",
+            "hits": "14",
+            "author": "witoldsz",
+            "tag": "reddit",
+            "title": "Those fancy date pickers in Elm? Watch this (no ports/subscriptions involved)."
+        }
+    ]
+}
