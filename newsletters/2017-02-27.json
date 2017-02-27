@@ -1,0 +1,35 @@
+{
+    "start_date": "February 20",
+    "end_date": "February 26",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://alpacaaa.net/blog/post/elm-purescript-in-depth-overview/",
+            "hits": "21",
+            "author": "_alpacaaa",
+            "tag": "reddit",
+            "title": "Lessons learned porting a game from Purescript to Elm."
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5vh1fi/where_do_you_suffer_most_while_programming_in_elm/",
+            "hits": "21",
+            "author": "jediknight",
+            "tag": "reddit",
+            "title": "Where do you suffer most while programming in Elm?"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5v6wf9/what_are_you_working_on_this_week_20170220/",
+            "hits": "20",
+            "author": "brnhx",
+            "tag": "reddit",
+            "title": "What are you working on this week? (2017-02-20)"
+        },
+        {
+            "url": "https://medium.com/@gdotdesign/elm-ui-1-0-0-8df91a093a9a#.s0lz0gyco",
+            "hits": "19",
+            "author": "gdotdesign",
+            "tag": "reddit",
+            "title": "[ANN] Elm-UI: 1.0.0"
+        }
+    ]
+}
