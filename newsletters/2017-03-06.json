@@ -1,0 +1,42 @@
+{
+    "start_date": "February 27",
+    "end_date": "March 05",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://medium.com/@eeue56/why-type-classes-arent-important-in-elm-yet-dd55be125c81#.tq2hgsav0",
+            "hits": "24",
+            "author": "dotneter",
+            "tag": "reddit",
+            "title": "Why type classes aren\u2019t important in Elm yet"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/oWfARte8DJU/6eUvmL-jAwAJ",
+            "hits": "14",
+            "author": "Richard Feldman",
+            "tag": "elm-discuss",
+            "title": "Post Examples of Painful Record Updates Here!"
+        },
+        {
+            "url": "https://robots.thoughtbot.com/elm-native-ui-in-production",
+            "hits": "14",
+            "author": "josh_steiner",
+            "tag": "reddit",
+            "title": "Elm Native UI in Production"
+        },
+        {
+            "url": "https://rundis.github.io/blog/2017/elm_bootstrap_launch.html",
+            "hits": "14",
+            "author": "mrundberget",
+            "tag": "Hacker News",
+            "title": "Introducing Elm Bootstrap"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/5xdl9z/elm_architecture_with_a_reduxlike_store_pattern/",
+            "hits": "14",
+            "author": "wuddever",
+            "tag": "reddit",
+            "title": "Elm Architecture with a Redux-like store pattern"
+        }
+    ]
+}
