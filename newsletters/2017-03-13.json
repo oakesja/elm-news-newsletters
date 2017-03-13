@@ -1,0 +1,49 @@
+{
+    "start_date": "March 06",
+    "end_date": "March 12",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/aDWFBg72Wt4/rF2h9-6nBAAJ",
+            "hits": "36",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Evolving elm-reactor"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/qdu3NqOqGrY/_jRl5ROiBAAJ",
+            "hits": "34",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Status Report - 7 March 2017"
+        },
+        {
+            "url": "https://medium.com/p/top-6-ways-to-make-your-elm-app-crash-at-runtime-562b2fa92d70",
+            "hits": "27",
+            "author": "enalicho",
+            "tag": "Hacker News",
+            "title": "Top 6 ways to make your Elm app crash at runtime and how to avoid them"
+        },
+        {
+            "url": "https://github.com/hyperapp/hyperapp",
+            "hits": "21",
+            "author": "bucaran",
+            "tag": "reddit",
+            "title": "hyperapp - a JavaScript framework based on the Elm Architecture"
+        },
+        {
+            "url": "https://www.dailydrip.com/topics/elm/drips/building-native-mobile-apps-with-elm",
+            "hits": "17",
+            "author": "knewter",
+            "tag": "reddit",
+            "title": "Building Native Mobile Apps with Elm"
+        },
+        {
+            "url": "https://framagit.org/forward/website/blob/fs-pages/index.md",
+            "hits": "16",
+            "author": "amirouche",
+            "tag": "Hacker News",
+            "title": "Forward - a scheme front end framework inspired from elm"
+        }
+    ]
+}
