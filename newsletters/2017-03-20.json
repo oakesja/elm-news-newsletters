@@ -1,0 +1,35 @@
+{
+    "start_date": "March 13",
+    "end_date": "March 19",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/btW9ZNtHcpw/jES2095yBgAJ",
+            "hits": "26",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Update on elm-tools/parser"
+        },
+        {
+            "url": "https://sanctuary.js.org/",
+            "hits": "21",
+            "author": "gagepeterson",
+            "tag": "reddit",
+            "title": "Sanctuary.js, maybe a good option for writing safe JS for interoping with Elm."
+        },
+        {
+            "url": "https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940?utm_source=sitepoint&utm_medium=email&utm_campaign=elm-launch",
+            "hits": "21",
+            "author": "happy-go-lucky",
+            "tag": "Hacker News",
+            "title": "Elm: A Beginners' Guide to Elm and Data"
+        },
+        {
+            "url": "http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html",
+            "hits": "20",
+            "author": "moomin",
+            "tag": "Hacker News",
+            "title": "How Elm Slays a UI Anti-Pattern"
+        }
+    ]
+}

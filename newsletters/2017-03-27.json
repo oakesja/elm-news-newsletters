@@ -1,0 +1,35 @@
+{
+    "start_date": "March 20",
+    "end_date": "March 26",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://dev.to/dnimmo/i-was-wrong-to-dismiss-elm-and-i-think-you-probably-aretoo",
+            "hits": "36",
+            "author": "j_s",
+            "tag": "Hacker News",
+            "title": "I was wrong to dismiss Elm, and I think you probably are too"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/bAHD_8PbgKE/X-z67wTdCAAJ",
+            "hits": "26",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Reframing \"native\" code as \"kernel\" code"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/60cg9z/fractal_renderer/",
+            "hits": "21",
+            "author": "tmountain",
+            "tag": "reddit",
+            "title": "Fractal Renderer"
+        },
+        {
+            "url": "https://ellie-app.com/v5FXQDs9z9a1/7",
+            "hits": "16",
+            "author": "hpinsley",
+            "tag": "reddit",
+            "title": "Play breakout on Ellie-App"
+        }
+    ]
+}
