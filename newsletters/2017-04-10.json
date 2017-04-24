@@ -1,0 +1,42 @@
+{
+    "start_date": "April 03",
+    "end_date": "April 09",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/eK6iBp8H2vU/k5fvwhOlAwAJ",
+            "hits": "28",
+            "author": "Richard Dodd",
+            "tag": "elm-dev",
+            "title": "IndexedDB API in Elm"
+        },
+        {
+            "url": "https://elmtown.github.io/2017/04/03/History-Signals-Episode-11.html",
+            "hits": "16",
+            "author": "johnorford",
+            "tag": "reddit",
+            "title": "Signal Headaches - love this ep!"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/63egaa/newbie_project_designing_a_musical_model_in_elm/",
+            "hits": "16",
+            "author": "sdenier",
+            "tag": "reddit",
+            "title": "Newbie project: designing a musical model in Elm?"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=LZj_1qVURL0",
+            "hits": "16",
+            "author": "mromnia",
+            "tag": "Hacker News",
+            "title": "Elm in Production: Surprises and Pain Points [Video]"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/Of9YSvoUJRk/I925yyMdBAAJ",
+            "hits": "15",
+            "author": "Aaron VonderHaar",
+            "tag": "elm-dev",
+            "title": "elm-format (0.6.1-alpha)"
+        }
+    ]
+}

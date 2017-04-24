@@ -1,0 +1,40 @@
+{
+    "start_date": "April 17",
+    "end_date": "April 23",
+    "year": "2017",
+    "articles": [{
+            "url": "https://youtu.be/kaLeBE5hsJY",
+            "hits": "22",
+            "author": "ChrisWellsWood",
+            "tag": "reddit",
+            "title": "Let's Elm Episode 6: Feature Blitz (Abilities)"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/662e9t/is_elm_suitable_for_ecommerce_site/",
+            "hits": "20",
+            "author": "rofrol",
+            "tag": "reddit",
+            "title": "Is Elm suitable for ecommerce site?"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/WDDrFq-uP58/IGGKliYPDwAJ",
+            "hits": "18",
+            "author": "Peter Damoc",
+            "tag": "elm-discuss",
+            "title": "Creating a \"Scaling in Elm\" guide"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/66hka4/scrum_board_for_github_issues/",
+            "hits": "18",
+            "author": "Husio",
+            "tag": "reddit",
+            "title": "Scrum Board for GitHub Issues"
+        },
+        {
+            "url": "https://github.com/noredink/elm-style-guide",
+            "title": "NoRedInk's style guide with some guidance for structuring applications",
+            "description": "From the curator :)",
+            "tag": "github"
+        }
+    ]
+}

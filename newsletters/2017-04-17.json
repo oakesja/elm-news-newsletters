@@ -1,0 +1,49 @@
+{
+    "start_date": "April 10",
+    "end_date": "April 16",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://www.reddit.com/r/elm/comments/64wk41/wrote_a_story_on_arango_with_elm/",
+            "hits": "28",
+            "author": "pinxnl",
+            "tag": "reddit",
+            "title": "ArangoDB with Elm"
+        },
+        {
+            "url": "https://pantas.net/elm_in_practice/",
+            "hits": "26",
+            "author": "panta82",
+            "tag": "Hacker News",
+            "title": "Elm in practice"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/DQnbG-AnaEk/dep2AY4CDQAJ",
+            "hits": "19",
+            "author": "Kasey Speakman",
+            "tag": "elm-discuss",
+            "title": "Notify me when JWT expires"
+        },
+        {
+            "url": "http://aleclownes.com/2017/04/10/react-redux-to-elm.html",
+            "hits": "18",
+            "author": "cakenggt",
+            "tag": "Hacker News",
+            "title": "Moving from React-Redux to Elm"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/7mmElgi4QM8/XCpNnRrVAQAJ",
+            "hits": "18",
+            "author": "Richard Feldman",
+            "tag": "elm-dev",
+            "title": "elm-test 4.0.0 alpha"
+        },
+        {
+            "url": "http://relm.ml/relm-intro",
+            "hits": "17",
+            "author": "hendi_",
+            "tag": "Hacker News",
+            "title": "Asynchronous, GTK+-based, GUI Library, Inspired by Elm, Written in Rust"
+        }
+    ]
+}
