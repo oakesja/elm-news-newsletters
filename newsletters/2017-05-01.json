@@ -1,0 +1,42 @@
+{
+    "start_date": "April 24",
+    "end_date": "April 30",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/44OZ-Nd4eYc/_brSEw2nEAAJ",
+            "hits": "44",
+            "author": "Duane Johnson",
+            "tag": "elm-discuss",
+            "title": "Moving on"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/indDEgQW1Qw/Z-LsV9-VAAAJ",
+            "hits": "32",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "A kind of FAQ"
+        },
+        {
+            "url": "http://martin.janiczek.cz/clanek/being-clever-antipattern-in-elm/",
+            "hits": "29",
+            "author": "janiczek",
+            "tag": "reddit",
+            "title": "\"Being clever\" antipattern in Elm"
+        },
+        {
+            "url": "https://github.com/fcevado/realworld-elm",
+            "hits": "29",
+            "author": "cevado",
+            "tag": "reddit",
+            "title": "RealWorld Elm project"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/682NvbsL9lY/Y5z5yyVJAAAJ",
+            "hits": "27",
+            "author": "Krzysztof Wende",
+            "tag": "elm-dev",
+            "title": "Elmchemy - Elm to Elixir compiler (Elm on backend)"
+        }
+    ]
+}

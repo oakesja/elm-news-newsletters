@@ -1,0 +1,42 @@
+{
+    "start_date": "May 08",
+    "end_date": "May 14",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/PiuWW6tBVRA/nfjOctSmAQAJ",
+            "hits": "46",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Beginning of resource on \"techniques\" of functional programming"
+        },
+        {
+            "url": "https://pusher.com/sessions/meetup/front-end-london/elm-the-good-the-bad-and-the-alternatives",
+            "hits": "33",
+            "author": "codedesi",
+            "tag": "reddit",
+            "title": "Elm: the good, the bad &amp; the alternatives"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6aynwq/animating_element_enterleave_transitions/",
+            "hits": "21",
+            "author": "ElectricOrangeJuice",
+            "tag": "reddit",
+            "title": "Animating element enter/leave transitions"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/hqO3P6uJiew/vlt8DhjwBQAJ",
+            "hits": "19",
+            "author": "Richard Feldman",
+            "tag": "elm-discuss",
+            "title": "Tour of an open-source 4,000 LoC Elm SPA"
+        },
+        {
+            "url": "https://github.com/SkaterDad/elm-prepack-experiments",
+            "hits": "14",
+            "author": "SkaterDad",
+            "tag": "reddit",
+            "title": "Using Prepack on Elm builds"
+        }
+    ]
+}
