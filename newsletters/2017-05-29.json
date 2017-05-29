@@ -1,0 +1,35 @@
+{
+    "start_date": "May 22",
+    "end_date": "May 28",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "http://get-finch.com/2017/05/24/what_to_think_about_when_using_elm_for_client_projects.html",
+            "hits": "30",
+            "author": "get-finch",
+            "tag": "reddit",
+            "title": "What to think about when using Elm for client projects"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6dbk45/how_do_you_scale_your_update_function/",
+            "hits": "25",
+            "author": "Dirty_Rapscallion",
+            "tag": "reddit",
+            "title": "How do you scale your update function?"
+        },
+        {
+            "url": "http://get-finch.com/2017/05/23/elm_reduces_project_risk.html",
+            "hits": "24",
+            "author": "get-finch",
+            "tag": "reddit",
+            "title": "Elm Reduces Project Risk for consultants and clients"
+        },
+        {
+            "url": "https://sonnym.github.io/2017/05/22/revisiting-the-game-of-life-in-elm/",
+            "hits": "20",
+            "author": "sonnymi",
+            "tag": "reddit",
+            "title": "Revisiting the Game of Life in Elm"
+        }
+    ]
+}
