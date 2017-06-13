@@ -1,0 +1,35 @@
+{
+    "start_date": "May 29",
+    "end_date": "June 04",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6e8zld/elm_018_included_in_js_web_framework_benchmark/",
+            "hits": "57",
+            "author": "AIDS_Pizza",
+            "tag": "reddit",
+            "title": "Elm 0.18 included in JS web framework benchmark"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/uDkMjcrVdPE/wyLgm3dqAAAJ",
+            "hits": "52",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Help with faster union-find implementation? (Potential compiler speedup)"
+        },
+        {
+            "url": "https://github.com/elm-lang/projects/blob/master/notes/on-general-purpose.md",
+            "hits": "24",
+            "author": "ProfDreamer",
+            "tag": "Hacker News",
+            "title": "On \u201cGeneral-Purpose\u201d Languages"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6e8n8x/what_libstools_to_use_with_react_to_get_similar/",
+            "hits": "22",
+            "author": "rofrol",
+            "tag": "reddit",
+            "title": "What libs/tools to use with React to get similar feelings like with Elm"
+        }
+    ]
+}

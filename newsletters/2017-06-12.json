@@ -1,0 +1,35 @@
+{
+    "start_date": "June 05",
+    "end_date": "June 11",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://medium.com/@birowsky/web-is-ready-for-you-on-line-elm-d3aa14dbf95",
+            "hits": "40",
+            "author": "birowsky",
+            "tag": "reddit",
+            "title": "Elm success story"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/mzU6oBCelH4/78dq8Q8hCAAJ",
+            "hits": "28",
+            "author": "Palmer Paul",
+            "tag": "elm-dev",
+            "title": "Elm for iOS"
+        },
+        {
+            "url": "https://medium.com/espark-engineering-blog/launching-projects-with-elm-and-elixir-8195ee34f632",
+            "hits": "26",
+            "author": "educationcto",
+            "tag": "Hacker News",
+            "title": "Launching Projects with Elm and Elixir"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6g4uf0/the_four_stages_of_functional_programming/",
+            "hits": "23",
+            "author": "chronics",
+            "tag": "reddit",
+            "title": "The four stages of functional programming languages"
+        }
+    ]
+}
