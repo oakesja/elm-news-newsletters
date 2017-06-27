@@ -1,0 +1,49 @@
+{
+    "start_date": "June 12",
+    "end_date": "June 18",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/YmGe5rte5Go/wfaNpVxMAQAJ",
+            "hits": "58",
+            "author": "Fran\u010dek Prijatelj",
+            "tag": "elm-discuss",
+            "title": "Cell - simple web framework"
+        },
+        {
+            "url": "https://youtu.be/NKl0dtSe8rs",
+            "hits": "31",
+            "author": "eeue56",
+            "tag": "reddit",
+            "title": "Brian Hicks \u2013 The State of Elm 2017, Extended Edition | OsloElmDay"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/f5FkLa9D5bA/RspSiL6JAAAJ",
+            "hits": "28",
+            "author": "Robin Heggelund Hansen",
+            "tag": "elm-discuss",
+            "title": "The way forward for Elm Arrays"
+        },
+        {
+            "url": "https://github.com/jschonenberg/elm-dropdown",
+            "hits": "26",
+            "author": "JeroenSchberg",
+            "tag": "reddit",
+            "title": "Elm-Dropdown \u2014 a flexible component to serve as a foundation for custom dropdowns, popovers, select-inputs, and more."
+        },
+        {
+            "url": "http://package.elm-lang.org/packages/FabienHenon/elm-infinite-scroll/latest",
+            "hits": "25",
+            "author": "FabienHenon",
+            "tag": "reddit",
+            "title": "Infinite scroll in Elm"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6h57fq/cron_library_for_elm/",
+            "hits": "25",
+            "author": "rodinalex",
+            "tag": "reddit",
+            "title": "Cron library for Elm"
+        }
+    ]
+}

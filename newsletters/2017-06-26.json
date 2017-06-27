@@ -1,0 +1,42 @@
+{
+    "start_date": "June 19",
+    "end_date": "June 25",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6ifkhl/25_elm_examples/",
+            "hits": "41",
+            "author": "elm-programmer",
+            "tag": "reddit",
+            "title": "25 Elm Examples"
+        },
+        {
+            "url": "https://github.com/simon-larsson/elm-spa-template",
+            "hits": "30",
+            "author": "lilsmacky",
+            "tag": "reddit",
+            "title": "Simple Elm SPA template I made while learning routing and how to structure Elm apps"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/P6Nmrt0YrlU/Rd086t35AQAJ",
+            "hits": "30",
+            "author": "Etienne Cavard",
+            "tag": "elm-dev",
+            "title": "MatchBox : a Rule Engine, RETE based algorithm, 100% Elm"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/h14CL_5ARUo/IFu1Swr9AgAJ",
+            "hits": "24",
+            "author": "Palmer Paul",
+            "tag": "elm-dev",
+            "title": "Elm for iOS, Update #2"
+        },
+        {
+            "url": "https://github.com/justgage/tachyons-elm",
+            "hits": "23",
+            "author": "rgh",
+            "tag": "reddit",
+            "title": "Tachyons For Elm"
+        }
+    ]
+}
