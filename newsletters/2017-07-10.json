@@ -1,0 +1,42 @@
+{
+    "start_date": "July 03",
+    "end_date": "July 09",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6l5ui6/ports_are_nice_and_all_but_js_makes_me_cry/",
+            "hits": "33",
+            "author": "Ahri",
+            "tag": "reddit",
+            "title": "Ports are nice and all but JS makes me cry - alternatives?"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6l7u9v/koch_snowflake_in_elm/",
+            "hits": "29",
+            "author": "nopuedorr",
+            "tag": "reddit",
+            "title": "Koch snowflake in Elm"
+        },
+        {
+            "url": "https://github.com/dmjio/miso",
+            "hits": "23",
+            "author": "dmjio",
+            "tag": "Hacker News",
+            "title": "Show HN: Miso \u2013 A Haskell implementation of Elm"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/D03BAaPsh70/vAO10En6BwAJ",
+            "hits": "23",
+            "author": "Palmer Paul",
+            "tag": "elm-dev",
+            "title": "Elm for iOS, Update #3"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=28aJOb1A34o",
+            "hits": "23",
+            "author": "fidelisclayton",
+            "tag": "reddit",
+            "title": "GOTO 2017 \u2022 Introducing Elm to a JavaScript App \u2022 Richard Feldman"
+        }
+    ]
+}
