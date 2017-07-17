@@ -1,0 +1,49 @@
+{
+    "start_date": "July 10",
+    "end_date": "July 16",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/hO-2DBq_h-U/6QkOGOxIAAAJ",
+            "hits": "108",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Status Report - 11 July 2017"
+        },
+        {
+            "url": "https://robots.thoughtbot.com/elm-glimmer",
+            "hits": "30",
+            "author": "mrbbk",
+            "tag": "Hacker News",
+            "title": "Alternative View Layers for an Elm App"
+        },
+        {
+            "url": "https://github.com/CaronaBoard/caronaboard",
+            "hits": "26",
+            "author": "tibastral2",
+            "tag": "Hacker News",
+            "title": "Serverless app to share cars inside cities (Elm and firebase)"
+        },
+        {
+            "url": "http://blog.testdouble.com/posts/2017-07-12-three-months-of-elm-our-experience",
+            "hits": "25",
+            "author": "joshtgreenwood",
+            "tag": "reddit",
+            "title": "3 Months of Elm: Our Experience"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6ni2ep/elmdata_experimental_method_for_general/",
+            "hits": "22",
+            "author": "sjorn3",
+            "tag": "reddit",
+            "title": "elm-data: Experimental method for general operations on data such as folding, mapping, e.t.c."
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6nhjeb/elmcss_vs_styleelements/",
+            "hits": "21",
+            "author": "clouddie2",
+            "tag": "reddit",
+            "title": "elm-css vs style-elements"
+        }
+    ]
+}
