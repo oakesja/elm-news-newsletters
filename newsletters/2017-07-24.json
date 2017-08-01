@@ -1,0 +1,35 @@
+{
+    "start_date": "July 17",
+    "end_date": "July 23",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://github.com/ktonon/elm-serverless",
+            "hits": "28",
+            "author": "fidelisclayton",
+            "tag": "reddit",
+            "title": "ktonon/elm-serverless"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/6oqa5j/gotta_choose_a_technology_for_our_next_front_end/",
+            "hits": "27",
+            "author": "beefzilla",
+            "tag": "reddit",
+            "title": "Gotta choose a technology for our next front end app. Suggestions for objective presentation?"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/1-rOjqj8Xlo/sjEbIKBpFgAJ",
+            "hits": "25",
+            "author": "Michael Torres",
+            "tag": "elm-dev",
+            "title": "Elm Data Structure Evaluator - Initial Ideas and Packages"
+        },
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/TG0wrnP--DA/kLKyqzJXBQAJ",
+            "hits": "24",
+            "author": "ajs",
+            "tag": "elm-discuss",
+            "title": "Separating model state structure from the view hierarchy"
+        }
+    ]
+}
