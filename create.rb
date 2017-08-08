@@ -8,6 +8,7 @@ class Newsletter
     @icon_path = 'https://oakesja.github.io/elm-news/assets/images/newsletter-icon.png'
     @twitter_url = 'https://twitter.com/elmlangnews'
     @gitub_issues_url = 'https://github.com/oakesja/elm-news/issues'
+    @submission_email = 'hello@elm-news.com'
     @articles = JSON.parse(File.read(articles_file))
     @now = Time.now.strftime('%F')
   end

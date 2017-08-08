@@ -178,7 +178,10 @@
           </tr>
           <tr>
             <td align="center">
-              <p>Follow us on <a href="<%= @twitter_url %>">Twitter</a></p>
+              <p>Do you have something that you would like to share
+              </br>
+              Send an email to <a href="<%= "mailto:#{@submission_email}" %>"><%= @submission_email %></a> or tweet a link to <a href="<%= @twitter_url %>">@elmlangnews</a>
+              </p>
               <p>Found a problem? Have a request? Please create an issue on <a href="<%= @gitub_issues_url %>">Github</a></p>
             </td>
           </tr>
@@ -202,7 +205,7 @@
                 by replying with the word "STOP"
               </p>
               <p>
-                © 2016 Jacob Oakes
+                © <%= Time.now.year %> Jacob Oakes
               </p>
             </td>
           </tr>
