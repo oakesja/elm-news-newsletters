@@ -1,0 +1,28 @@
+{
+    "start_date": "July 24",
+    "end_date": "July 30",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-discuss/l85OFPH7Pxw/epelFjg1BwAJ",
+            "hits": "42",
+            "author": "Dave Ford",
+            "tag": "elm-discuss",
+            "title": "80% of my coding is doing this (or why templates are dead)"
+        },
+        {
+            "url": "https://github.com/gothinkster/realworld",
+            "hits": "32",
+            "author": "beefzilla",
+            "tag": "reddit",
+            "title": "Elm real word app at silver. Can we make it gold? Star the repository! :)"
+        },
+        {
+            "url": "http://package.elm-lang.org/packages/ghivert/elm-graphql/latest",
+            "hits": "28",
+            "author": "ghivert",
+            "tag": "reddit",
+            "title": "Elm GraphQL : GraphQL made easy in Elm!"
+        }
+    ]
+}
