@@ -1,0 +1,45 @@
+{
+    "start_date": "July 31",
+    "end_date": "August 06",
+    "year": "2017",
+    "articles": [
+        {
+            "url": "https://groups.google.com/d/msg/elm-dev/x4j_O1ESfvc/NU5Kn15oBQAJ",
+            "hits": "55",
+            "author": "Evan Czaplicki",
+            "tag": "elm-dev",
+            "title": "Alternate design for module declarations", 
+            "summary": "Do we really need an module declarations at the top of our elm files? Evan proposes an alternative"
+        },
+        {
+            "url": "https://twitter.com/rtfeldman/status/892106846584139778",
+            "hits": "37",
+            "author": "scottcorgan",
+            "tag": "Hacker News",
+            "title": "Watch Elm Take Over a Code Base (A Twitter Thread)",
+            "summary": "Elm takes over as the number one language used in NoRedInk's code base in 2 years"
+        },
+        {
+            "url": "https://charukiewi.cz/posts/elm/",
+            "hits": "24",
+            "author": "Albert_Camus",
+            "tag": "Hacker News",
+            "title": "Elm in Production: 25K Lines Later",
+            "summary": "Another story of sucessfully using Elm in production"
+        },
+        {
+            "url": "https://www.dailydrip.com/blog/answering-your-questions-about-elm",
+            "hits": "24",
+            "author": "franzunix",
+            "tag": "reddit",
+            "title": "Answering your questions about Elm",
+            "summary": "The folks at DailyDrip answer quite a few Elm questions from testing to mobile development"
+        }, 
+        {
+            "url": "https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-2-geocoding-an-address.html",
+            "description": "From Robert Pearce",
+            "title": "Elm, Geocoding & DarkSky",
+            "summary": "An introductory series on Elm, Geocoding and DarkSky for fetching the weather based on input"
+        } 
+    ]
+}
