@@ -38,6 +38,7 @@
         {
             "url": "https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-2-geocoding-an-address.html",
             "description": "From Robert Pearce",
+            "tag": "User", 
             "title": "Elm, Geocoding & DarkSky",
             "summary": "An introductory series on Elm, Geocoding and DarkSky for fetching the weather based on input"
         } 
