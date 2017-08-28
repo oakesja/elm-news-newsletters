@@ -109,7 +109,8 @@ def get_top_news(response):
             "title": dimensions[1],
             "author": dimensions[3],
             "tag": dimensions[2],
-            "hits": totalEvents
+            "hits": totalEvents, 
+            "summary": ""
         }
         articles.append(topNewsArticle)
     return articles

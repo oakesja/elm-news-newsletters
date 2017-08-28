@@ -1,0 +1,55 @@
+{
+    "start_date": "August 14",
+    "end_date": "August 20",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "44",
+            "author": "mjfl",
+            "url": "https://ocalog.com/post/19/",
+            "title": "I gave a talk about Elm at work; here's some energy released by the effort",
+            "summary": "A list of useful and interesting links",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "43",
+            "author": "mrkaspa",
+            "url": "https://fable-elmish.github.io/elmish/",
+            "title": "Elmish",
+            "summary": "Elm-like abstractions for F# apps",
+            "tag": "reddit"
+        },
+        {
+            "hits": "42",
+            "author": "xmasx",
+            "url": "https://www.reddit.com/r/elm/comments/6tvb51/is_elm_native_ui_usable_in_production/",
+            "title": "Is Elm Native UI usable in production?",
+            "summary": "With a video from Elm Europe 2017 about Elm native UI in production",
+            "tag": "reddit"
+        },
+        {
+            "hits": "34",
+            "author": "Xilnocas104",
+            "url": "https://medium.com/@xilnocas/setter-messages-considered-smelly-414b88bd9da4",
+            "title": "Setter Messages Considered Smelly",
+            "summary": "Naming messages after the user's action rather than effects on application state",
+            "tag": "reddit"
+        },
+        {
+            "hits": "26",
+            "author": "mrkaspa",
+            "url": "https://github.com/OvermindDL1/bucklescript-tea",
+            "title": "OvermindDL1/bucklescript-tea",
+            "summary": "TEA for Bucklescript",
+            "tag": "reddit"
+        },
+        {
+            "url": "https://robertwpearce.com/blog/elm-geocoding-and-darksky-pt-3-fetching-the-current-weather.html",
+            "description": "From Robert Pearce",
+            "tag": "User",
+            "title": "Elm, Geocoding & DarkSky",
+            "summary": "Introductory Tuturial - Fetching the current weather"
+        }
+ 
+    ]
+}
