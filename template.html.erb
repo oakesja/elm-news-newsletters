@@ -80,6 +80,7 @@
 
     h2 {
       font-size: 28px;
+      border-bottom: 0px;
     }
 
     h3 {
@@ -113,7 +114,7 @@
 
     /* Set the padding on the td rather than the div for Outlook compatibility */
 
-    .body-wrap .container {
+    .body-wrap .articles {
       padding: 20px;
     }
 
@@ -141,6 +142,22 @@
       font-weight: bold;
       text-decoration: underline;
     }
+
+    .header {
+      background-color: #5A6378;
+    }
+
+    .headerTitle {
+      color: #FFFFFF;
+    }
+
+    .author {
+      color: #888;
+    }
+
+    .article {
+      margin-bottom: 10px;
+    }
   </style>
 </head>
 
@@ -157,24 +174,20 @@
               <a href="<%= @home_page %>">
                 <img src="<%= @icon_path %>"/>
               </a>
+              <h3 class="headerTitle">Top elm news for <%= @articles['start_date'] %> - <%= @articles['end_date'] %>, <%= @articles['year'] %></h3>
             </td>
           </tr>
           <tr>
-          <tr>
-          <tr>
-            <td align="center">
-              <h3>The top elm news for the <%= @articles['start_date'] %> - <%= @articles['end_date'] %>, <%= @articles['year'] %></h3>
-            </td>
-          </tr>
-          <tr>
-            <td>
+            <td class="articles">
               <% @articles['articles'].each do |article| %>
-                  <p><a class="news" href="<%= "#{@home_page}/redirect?url=#{article['url']}&label=#{@now}" %>"><%= article['title'] %></a>
+                  <div class="article"><a class="news" href="<%= "#{@home_page}/redirect?url=#{article['url']}&label=#{@now}" %>"><%= article['title'] %></a>
                     <br/>
                     <%= article['summary'] %>
                     <br/>
-                    <%= article['description'] ? article['description'] : "From #{article['author']} on #{article['tag']}" %>
-                  </p>
+                    <div class="author">
+                      <%= article['description'] ? article['description'] : "From #{article['author']} on #{article['tag']}" %>
+                    </div>
+                  </div>
               <% end %>
             </td>
           </tr>
