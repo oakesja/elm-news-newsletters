@@ -1,0 +1,31 @@
+{
+    "start_date": "August 21",
+    "end_date": "August 27",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "30",
+            "author": "farismmk",
+            "url": "https://farism.github.io/elm-factory/",
+            "title": "Elm Factory alpha",
+            "summary": "Elm Factory is an all-in-one, zero-config CLI tool with a livereload development mode and a cache-busting build mode for maximum productivity.",
+            "tag": "reddit"
+        },
+        {
+            "hits": "29",
+            "author": "Askar Yusupov",
+            "url": "https://github.com/pyoner/elm-debounce",
+            "title": "Elm Debounce - simple libriary based on Effects Manager",
+            "summary": "Simple debounce based on the Effects Manager",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "26",
+            "author": "woberto",
+            "url": "https://www.youtube.com/watch?v=HRJ_VjkmyiE&amp;t=4802s",
+            "title": "Evan Czaplicki's talk at React Rally",
+            "summary": "Examining the similarities between React and Elm",
+            "tag": "reddit"
+        }
+    ]
+}
