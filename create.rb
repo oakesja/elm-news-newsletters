@@ -1,5 +1,6 @@
 require 'erb'
 require 'json'
+require 'cgi'
 
 
 class Newsletter
@@ -9,7 +10,7 @@ class Newsletter
     @twitter_url = 'https://twitter.com/elmlangnews'
     @gitub_issues_url = 'https://github.com/oakesja/elm-news/issues'
     @submission_email = 'hello@elm-news.com'
-    @articles = JSON.parse(File.read(articles_file))
+    @articles = articles_from(articles_file)
     @now = Time.now.strftime('%F')
   end
 
@@ -18,6 +19,18 @@ class Newsletter
     File.open('output.html', 'w') do |f|
       f.write(template.result(binding))
     end
+  end
+
+  def articles_from(articles_file)
+    articles = JSON.parse(File.read(articles_file))
+    articles['articles'].each do |article|
+      article['url'] = clean_url(article['url'])
+    end
+    articles
+  end
+
+  def clean_url(url)
+    CGI::escape(url.chomp('/'))
   end
 end
 

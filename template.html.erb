@@ -139,7 +139,7 @@
     .news {
       color: #5A6378;
       font-weight: bold;
-      text-decoration: underline; 
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -169,7 +169,7 @@
           <tr>
             <td>
               <% @articles['articles'].each do |article| %>
-                  <p><a class="news" href="<%= "#{@home_page}/redirect?url=#{article['url'].chomp('/')}&label=#{@now}" %>"><%= article['title'] %></a>
+                  <p><a class="news" href="<%= "#{@home_page}/redirect?url=#{article['url']}&label=#{@now}" %>"><%= article['title'] %></a>
                     <br/>
                     <%= article['summary'] %>
                     <br/>
