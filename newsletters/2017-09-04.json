@@ -1,0 +1,39 @@
+{
+    "start_date": "August 28",
+    "end_date": "September 03",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "59",
+            "author": "Erik Person",
+            "url": "https://elmseeds.thaterikperson.com",
+            "title": "elm-seeds - video tutorials",
+            "summary": "44 and counting elm video tutorials",
+            "tag": "elm-discuss"
+        },
+        {
+            "hits": "51",
+            "author": "drBearhands",
+            "url": "https://www.reddit.com/r/elm/comments/6x5w07/components_in_elm_why_not_and_how/",
+            "title": "Components in Elm: why (not) and how?",
+            "summary": "Some useful links and explanations on the subject",
+            "tag": "reddit"
+        },
+        {
+            "hits": "42",
+            "author": "Rudolf Olah",
+            "url": "https://www.codementor.io/rudolfolah/elm-vs-react-development-performance-compare-603dyh83m",
+            "title": "Elm vs. React: Development and Performance",
+            "summary": "Some Pros and Cons of Elm and React",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "36",
+            "author": "Charlie Koster",
+            "url": "https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2",
+            "title": "Advanced Types in Elm - Opaque Types",
+            "summary": "Hiding internal module details with Opaque Types",
+            "tag": "reddit"
+        }
+    ]
+}

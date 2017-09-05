@@ -6,7 +6,7 @@ require 'cgi'
 class Newsletter
   def initialize(articles_file)
     @home_page = 'http://elm-news.com'
-    @icon_path = 'https://oakesja.github.io/elm-news/assets/images/newsletter-icon.png'
+    @icon_path = 'https://oakesja.github.io/elm-news/assets/images/newsletter-icon-dark.png'
     @twitter_url = 'https://twitter.com/elmlangnews'
     @gitub_issues_url = 'https://github.com/oakesja/elm-news/issues'
     @submission_email = 'hello@elm-news.com'
