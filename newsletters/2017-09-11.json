@@ -1,0 +1,39 @@
+{
+    "start_date": "September 04",
+    "end_date": "September 10",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "48",
+            "author": "Noah",
+            "url": "https://medium.com/@eeue56/why-type-classes-arent-important-in-elm-yet-dd55be125c81",
+            "title": "Why type classes aren\u2019t important in Elm yet",
+            "summary": "An article from March where Noah explains why type classes can be useful, but are ultimately not a top priority",
+            "tag": "Medium"
+        },
+        {
+            "hits": "31",
+            "author": "Charlie Koster",
+            "url": "https://medium.com/@ckoster22/advanced-types-in-elm-the-never-type-ca9b3297bbd4",
+            "title": "Advanced Types in Elm - The Never Type",
+            "summary": "Restricting function arguments with the Never type",
+            "tag": "Medium"
+        },
+        {
+            "hits": "31",
+            "author": "flecks6",
+            "url": "https://www.reddit.com/r/elm/comments/6ykm2s/elmthrottle/",
+            "title": "elm-throttle",
+            "summary": "An effect manager for throttling update calls with leading, trailing or both",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "John Otander",
+            "url": "http://jstoelm.com/",
+            "title": "Javascript To Elm Podcast",
+            "summary": "A podcast about using Elm coming from Javascript and other languages",
+            "tag": "github"
+        }
+    ]
+}
