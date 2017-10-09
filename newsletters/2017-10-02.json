@@ -1,0 +1,47 @@
+{
+    "start_date": "September 25",
+    "end_date": "October 01",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "",
+            "author": "lukewestby",
+            "url": "https://github.com/lukewestby/ellie",
+            "title": "ellie-app",
+            "summary": "Ellie is now open source",
+            "tag": "github"
+        },
+        {
+            "hits": "",
+            "author": "James Carlson",
+            "url": "https://jxxcarlson.github.io/",
+            "title": "Physic Simulation in Elm",
+            "summary": "Some cool physics examples written in Elm",
+            "tag": "github"
+        },
+        {
+            "hits": "",
+            "author": "Matthew Buscemi",
+            "url": "https://medium.com/@matthew.buscemi/elm-refactor-library-generify-signature-8e9fe74c7259",
+            "title": "Elm Refactor Library: Generify Signature",
+            "summary": "Refactoring long, duplicate, and singleton type signatures",
+            "tag": "medium"
+        },
+        {
+            "hits": "28",
+            "author": "peterxjang",
+            "url": "https://medium.com/@peterxjang/dont-just-read-the-elm-guide-do-the-elm-guide-4619ae6e39d4",
+            "title": "Don\u2019t just read the Elm Guide, do the Elm Guide",
+            "summary": "Learning Elm through the examples in the guide",
+            "tag": "reddit"
+        },
+        {
+            "hits": "20",
+            "author": "Fedor Nezhivoi",
+            "url": "https://groups.google.com/d/msg/elm-discuss/ntO-0j7PAvA/hO6tfmVxAgAJ",
+            "title": "elm-outdated",
+            "summary": "A tool to find outdated dependencies",
+            "tag": "elm-discuss"
+        }
+    ]
+}
