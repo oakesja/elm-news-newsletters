@@ -1,0 +1,39 @@
+{
+    "start_date": "October 02",
+    "end_date": "October 08",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "",
+            "author": "elm-conf",
+            "url": "https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ/videos",
+            "title": "Talks from elm-conf",
+            "summary": "See all the talks from elm-conf last week",
+            "tag": "youtube"
+        },
+        {
+            "hits": "",
+            "author": "gdotdesign",
+            "url": "http://elm-directory.herokuapp.com/",
+            "title": "Elm Directory",
+            "summary": "Find and read documentation of Elm packages, native modules, and effect managers",
+            "tag": "github"
+        },
+        {
+            "hits": "",
+            "author": "shamansir",
+            "url": "https://github.com/shamansir/node-elm-repl",
+            "title": "node-elm-repl",
+            "summary": "JavaScript tool, which provides fast access to the types (as structures, not just strings) and values of Elm expressions",
+            "tag": "github"
+        },
+        {
+            "hits": "",
+            "author": "justinmimbs",
+            "url": "https://github.com/justinmimbs/elm-module-graph",
+            "title": "elm-module-graph",
+            "summary": "Visually explore package and module dependencies for an Elm projec",
+            "tag": "github"
+        }
+    ]
+}
