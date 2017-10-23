@@ -1,0 +1,31 @@
+{
+    "start_date": "October 16",
+    "end_date": "October 22",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "41",
+            "author": "Evan Czaplicki",
+            "url": "https://groups.google.com/d/msg/elm-dev/MW4rYHpylQY/gAcTt7R9AAAJ",
+            "title": "Thoughts on generating JSON decoders",
+            "summary": "A vision for data interchange in Elm",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "",
+            "author": "tesk9",
+            "url": "https://github.com/tesk9/accessible-html",
+            "title": "accessible-html",
+            "summary": "View helpers enforcing accessible practices",
+            "tag": "github"
+        },
+        {
+            "hits": "25",
+            "author": "MazeChaZer",
+            "url": "https://mazechazer.gitlab.io/knobster/",
+            "title": "Knobster",
+            "summary": "A fun little game built in Elm",
+            "tag": "gitlab"
+        }
+    ]
+}
