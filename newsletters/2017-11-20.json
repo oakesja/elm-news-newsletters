@@ -1,0 +1,40 @@
+{
+    "start_date": "November 13",
+    "end_date": "November 19",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "66",
+            "author": "Richard Feldman",
+            "url": "https://groups.google.com/d/msg/elm-dev/-1InT0Z4Ang/sjABd859BQAJ",
+            "title": "Seeking feedback on new elm-css docs",
+            "summary": "Richard is seeking feedback on a major revamp of elm-css",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "40",
+            "author": "marshallformula",
+            "url": "https://marshallformula.codes/harness-the-power-of-the-union/",
+            "title": "Harness the power of the union type",
+            "summary": "Writing fewer bugs with union types",
+            "tag": "reddit"
+        },
+        {
+            "hits": "26",
+            "author": "matt2ray",
+            "url": "https://www.dailydrip.com/blog/type-variables-in-practice",
+            "title": "Type Variables in Practice",
+            "summary": "Utilizing type variables for more reusable code",
+            "tag": "reddit"
+        }, 
+        {
+            "hits": "",
+            "author": "Erik Williamson",
+            "url": "https://www.meetup.com/Seattle-Elm/",
+            "title": "Elm Seattle Meetup",
+            "summary": "For you folks in Seattle looking to hack, learn, and connect!",
+            "tag": "meetup.com"
+        } 
+
+    ]
+}

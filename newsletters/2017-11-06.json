@@ -1,0 +1,47 @@
+{
+    "start_date": "October 30",
+    "end_date": "November 05",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "84",
+            "author": "Evan Czaplicki",
+            "url": "https://groups.google.com/d/msg/elm-dev/04jgscs9aYw/_SQWuS8oAgAJ",
+            "title": "New Time/Date API",
+            "summary": "A draft for a new Time/Date API that includes timezones",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "31",
+            "author": "nithstong",
+            "url": "https://medium.com/@nithstong/elm-with-web-workers-1c2c3d55f939",
+            "title": "Elm with Web Workers",
+            "summary": "An approach on using elm with web workers using ports",
+            "tag": "reddit"
+        },
+        {
+            "hits": "29",
+            "author": "Robin Heggelund Hansen",
+            "url": "https://groups.google.com/d/msg/elm-dev/--fK-wMoDig/p6zF4-5sAgAJ",
+            "title": "New Dict implementation",
+            "summary": "An API compatible new Dict implementation using a Left-Leaning Red-Black tree",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "29",
+            "author": "Francisco Ramos",
+            "url": "https://groups.google.com/d/msg/elm-dev/d6v_wkjqnIQ/Ax_pVoutAgAJ",
+            "title": "The NumPy for Elm",
+            "summary": "Scientific computing in Elm",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "",
+            "author": "chmar77",
+            "url": "https://dev.to/chmar77/display-and-edit-google-map-inelm-dg1",
+            "title": "Google Maps in Elm",
+            "summary": "Displaying and editing Google maps using ports in Elm",
+            "tag": "Dev.to"
+        }
+    ]
+}

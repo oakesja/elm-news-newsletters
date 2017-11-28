@@ -1,0 +1,47 @@
+{
+    "start_date": "November 06",
+    "end_date": "November 12",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "32",
+            "author": "Richard Feldman",
+            "url": "https://groups.google.com/d/msg/elm-dev/KcNvOVl9iWA/NMQJzrtFAwAJ",
+            "title": "package.elm-lang.org design mockups",
+            "summary": "An alternative desing of elm packages from Richard",
+            "tag": "elm-dev"
+        },
+        {
+            "hits": "27",
+            "author": "_alpacaaa",
+            "url": "https://github.com/alpacaaa/elm-to-purescript-cheatsheet",
+            "title": "Elm to Purescript cheatsheet",
+            "summary": "Interested in learning Purescript? This cheatsheet is for Elm devs",
+            "tag": "reddit"
+        },
+        {
+            "hits": "25",
+            "author": "tortilla",
+            "url": "https://medium.com/@davidstreeterconsulting/creating-a-clone-of-typeform-with-elm-and-tachyons-40519e6b45b9",
+            "title": "Creating a Clone of Typeform with Elm and Tachyons",
+            "summary": "A tutorial of using the css toolkit, Tachyons, with Elm",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "",
+            "author": "folkertdev",
+            "url": "http://package.elm-lang.org/packages/folkertdev/one-true-path-experiment/3.0.0/",
+            "title": "one-true-path-experiment package",
+            "summary": "A general-purpose library for working with SVG curves and paths",
+            "tag": "elm packages"
+        },
+        {
+            "hits": "",
+            "author": "jxxcarlson",
+            "url": "http://package.elm-lang.org/packages/jxxcarlson/minilatex/latest/MiniLatex-Driver",
+            "title": "MiniLatex-Driver package",
+            "summary": "A library for rendering MiniLaTeX text into HTML",
+            "tag": "elm packages"
+        }
+    ]
+}
