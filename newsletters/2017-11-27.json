@@ -1,0 +1,31 @@
+{
+    "start_date": "November 20",
+    "end_date": "November 26",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "52",
+            "author": "jwoLondon",
+            "url": "https://www.reddit.com/r/elm/comments/7f0vf3/eve_visualization_package_for_elm/",
+            "title": "Eve - Visualization Package for Elm",
+            "summary": "An Elm wrapper for Vega-Lite",
+            "tag": "reddit"
+        },
+        {
+            "hits": "39",
+            "author": "splodingsocks",
+            "url": "http://package.elm-lang.org/packages/splodingsocks/elm-tailwind/1.1.0",
+            "title": "elm-tailwind 1.1.0",
+            "summary": "An Elm wrapper for tailwind.css",
+            "tag": "reddit"
+        },
+        {
+            "hits": "31",
+            "author": "ChuckDuck22",
+            "url": "https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d",
+            "title": "Advanced Types in Elm - Phantom Types",
+            "summary": "Restricting function arguments in Elm",
+            "tag": "reddit"
+        }
+    ]
+}

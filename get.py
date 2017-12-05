@@ -144,7 +144,7 @@ def main():
     news = get_top_news(response)
     output_top_news(news)
     for new in news:
-        call(["xdg-open", new["url"]])
+        call(["open", new["url"]])
 
 if __name__ == '__main__':
     main()

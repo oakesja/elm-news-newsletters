@@ -1,6 +1,6 @@
 # Dependencies
 ```
-sudo pip install --upgrade google-api-python-client
+pip install google-api-python-client==1.5.4
 ```
 
 # How to
