@@ -1,0 +1,39 @@
+{
+    "start_date": "December 04",
+    "end_date": "December 10",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "29",
+            "author": "jediknight",
+            "url": "https://robots.thoughtbot.com/5-common-json-decoders",
+            "title": "5 Common JSON Decoders",
+            "summary": "Another article helping out with JSON decoders",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "mbylstra",
+            "url": "https://www.npmjs.com/package/elm-rough-coverage",
+            "title": "elm-rough-coverage",
+            "summary": "A test coverage reporter for Elm tests",
+            "tag": "npm"
+        },
+        {
+            "hits": "",
+            "author": "jerith",
+            "url": "https://discourse.elm-lang.org/t/elbum-photo-album-in-elm/204/2",
+            "title": "Elbum",
+            "summary": "A photo album in Elm",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "billstclair",
+            "url": "http://package.elm-lang.org/packages/billstclair/elm-crypto-aes/latest",
+            "title": "elm-crypto-aes",
+            "summary": "A pure Elm implementation of AES encryption",
+            "tag": "elm-package"
+        }
+    ]
+}
