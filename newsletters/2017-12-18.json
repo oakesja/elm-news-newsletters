@@ -1,0 +1,39 @@
+{
+    "start_date": "December 11",
+    "end_date": "December 17",
+    "year": "2017",
+    "articles": [
+        {
+            "hits": "43",
+            "author": "@brian-watkins",
+            "url": "http://discourse.elm-lang.org/t/elmer-an-elm-testing-tool/232",
+            "title": "Elmer: An Elm Testing Tool",
+            "summary": "Describe the behavior of Elm HTML applications",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "39",
+            "author": "@xilnocas",
+            "url": "http://discourse.elm-lang.org/t/new-view-api-design-technique-and-accompanying-blog-post/220",
+            "title": "New view API design technique and accompanying blog post",
+            "summary": "Turning Elm Views Inside-Out",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "35",
+            "author": "nukifw",
+            "url": "https://github.com/xvw/qian",
+            "title": "Qian 1.2.0",
+            "summary": "A minimalist file-explorer using Electron via Elm",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "Matthew Buscemi",
+            "url": "https://medium.com/@matthew.buscemi/running-elm-test-in-atom-the-making-of-elm-test-runner-9c4369bec3d6",
+            "title": "Running Elm Test in Atom",
+            "summary": "Creating an Elm Test Runner for Atom",
+            "tag": "Medium"
+        }
+    ]
+}

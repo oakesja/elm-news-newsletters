@@ -1,0 +1,31 @@
+{
+    "start_date": "January 01",
+    "end_date": "January 07",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "",
+            "author": "Matthew Buscemi",
+            "url": "https://medium.com/@matthew.buscemi/introducing-elm-lens-2d21e05d95",
+            "title": "Elm Lens",
+            "summary": "Atom package to easy see number of times a function is referenced",
+            "tag": "Medium"
+        },
+        {
+            "hits": "35",
+            "author": "amitaibu",
+            "url": "https://www.gizra.com/content/elm-port-alternatives/",
+            "title": "Integrating JavaScript into Elm: Alternatives to Ports",
+            "summary": "Some more helpful literature on ports in elm",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "22",
+            "author": "@dillonkearns Dillon Kearns",
+            "url": "http://discourse.elm-lang.org/t/introducing-graphqelm-a-tool-for-type-safe-graphql-queries/472",
+            "title": "Introducing Graphqelm",
+            "summary": "Autogenerate type-safe GraphQL queries in elm",
+            "tag": "Discourse"
+        }
+    ]
+}
