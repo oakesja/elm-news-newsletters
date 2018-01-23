@@ -1,0 +1,39 @@
+{
+    "start_date": "January 08",
+    "end_date": "January 14",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "32",
+            "author": "anthonybullard",
+            "url": "https://github.com/julienrf/scalm",
+            "title": "Scalm",
+            "summary": "Elm-inspired Scala library for writing web user interfaces",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "26",
+            "author": "necinc",
+            "url": "https://github.com/necinc/elmmet",
+            "title": "Elmmet (VSCode extension)",
+            "summary": "VS Code extension to compile emmet snippets to composition of elm functions",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "rl-king",
+            "url": "https://github.com/rl-king/elm-hnpwa",
+            "title": "elm-hnpwa",
+            "summary": "Elm implementation of the Hackernews PWA ",
+            "tag": "Github"
+        }, 
+        {
+            "hits": "",
+            "author": "fncasts",
+            "url": "https://fncasts.io/",
+            "title": "fncasts",
+            "summary": "A new streaming series about apps using Elm and Elixir",
+            "tag": "youtube"
+        }
+    ]
+}
