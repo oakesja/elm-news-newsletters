@@ -1,0 +1,39 @@
+{
+    "start_date": "January 15",
+    "end_date": "January 21",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "40",
+            "author": "IkimashoZ",
+            "url": "https://medium.com/@matthew.buscemi/abstraction-in-elm-introduction-db0922bde3ba",
+            "title": "Abstraction in elm",
+            "summary": "Exploring the levels of abstration in elm code",
+            "tag": "reddit"
+        },
+        {
+            "hits": "39",
+            "author": "jaredramirez",
+            "url": "https://github.com/jaredramirez/reason-elm",
+            "title": "reason-elm",
+            "summary": "Bindings for mounting and interacting with Elm applications in Reason",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "",
+            "author": "eeue56",
+            "url": "https://github.com/eeue56/elm-help",
+            "title": "elm-help",
+            "summary": "Show information about a package, a module, or a function",
+            "tag": "Github"
+        },
+        {
+            "hits": "23",
+            "author": "eeue56",
+            "url": "http://discourse.elm-lang.org/t/bash-completion-for-elm-tools/548",
+            "title": "elm-bash-completion",
+            "summary": "Bash completion for elm tools",
+            "tag": "Discourse"
+        }
+    ]
+}
