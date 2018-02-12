@@ -1,0 +1,39 @@
+{
+    "start_date": "January 29",
+    "end_date": "February 04",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "54",
+            "author": "Brian Hicks",
+            "url": "http://www.brianthicks.com/post/2018/02/01/state-of-elm-2018",
+            "title": "State of Elm 2018",
+            "summary": "Take the Elm survey for 2018",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "38",
+            "author": "sciurus",
+            "url": "https://github.com/mordrax/cotwelm",
+            "title": "Castle of the Winds in Elm",
+            "summary": "A remake of the a tile-based RPG in Elm",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "",
+            "author": "elmgamesclub",
+            "url": "http://elmgames.club/",
+            "title": "Elm Game Jam",
+            "summary": "A club open to everyone interested in writing games in the Elm programming language",
+            "tag": "elmgamesclub.com"
+        }, 
+        {
+            "hits": "",
+            "author": "Daniel Albuschat",
+            "url": "https://dev.to/danielkun/using-elm-on-a-raspberry-pi-42pi",
+            "title": "Using Elm on a Raspberry Pi",
+            "summary": "Running Elm on a Rasberry Pi using docker or compiling from source",
+            "tag": "dev.to"
+        }
+    ]
+}
