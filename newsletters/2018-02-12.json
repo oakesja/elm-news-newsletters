@@ -1,0 +1,87 @@
+{
+    "start_date": "February 05",
+    "end_date": "February 11",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "59",
+            "author": "@Duncan",
+            "url": "http://discourse.elm-lang.org/t/lesser-known-syntax/641",
+            "title": "Lesser known syntax",
+            "summary": "",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "57",
+            "author": "@rupert Rupert Smith",
+            "url": "http://discourse.elm-lang.org/t/more-useful-program-combinators/648",
+            "title": "More useful program combinators",
+            "summary": "",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "52",
+            "author": "quickthrower2",
+            "url": "http://package.elm-lang.org/help/design-guidelines",
+            "title": "Elm Design Guidelines",
+            "summary": "",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "52",
+            "author": "mobilgroma",
+            "url": "https://www.reddit.com/r/elm/comments/7wcvr2/is_there_a_way_to_have_many_small_elm_apps_but/",
+            "title": "Is there a way to have many small Elm apps but only Deliver the Base Elm runtime Once?",
+            "summary": "",
+            "tag": "reddit"
+        },
+        {
+            "hits": "50",
+            "author": "@matt.cheely",
+            "url": "http://discourse.elm-lang.org/t/looking-for-difficult-js-interop-stories/651",
+            "title": "Looking for difficult JS interop stories",
+            "summary": "",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "49",
+            "author": "ghivert",
+            "url": "https://medium.com/@ghivert/one-year-with-elm-whats-next-b0f4d4b43bdb",
+            "title": "One Year with Elm \u2013 What\u2019s Next? \u2013 Guillaume Hivert \u2013 Medium",
+            "summary": "",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "43",
+            "author": "@herdibintang Herdi Bintang",
+            "url": "http://discourse.elm-lang.org/t/will-elm-release-time-getting-longer-for-every-release/620",
+            "title": "Will Elm Release Time Getting Longer for Every Release?",
+            "summary": "",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "39",
+            "author": "@pdamoc Peter Damoc",
+            "url": "http://discourse.elm-lang.org/t/package-pdamoc-elm-ports-driver/645",
+            "title": "Package: pdamoc/elm-ports-driver",
+            "summary": "",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "38",
+            "author": "mrmangado",
+            "url": "https://www.reddit.com/r/elm/comments/7vnikt/i_have_a_proble_porting_a_js_library_to_elm/",
+            "title": "i have a proble porting a JS library to ELM",
+            "summary": "",
+            "tag": "reddit"
+        },
+        {
+            "hits": "34",
+            "author": "jtomchak",
+            "url": "https://www.reddit.com/r/elm/comments/7w1169/adding_elm_to_react_where_to_start/",
+            "title": "Adding Elm to React, Where to start?",
+            "summary": "",
+            "tag": "reddit"
+        }
+    ]
+}
