@@ -1,0 +1,47 @@
+{
+    "start_date": "February 19",
+    "end_date": "February 25",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "45",
+            "author": "lkrubner",
+            "url": "https://adambard.com/blog/reason-vs-elm-vs-typescript/",
+            "title": "Bucklescript vs. Elm vs. Typescript",
+            "summary": "Typed JavaScript Showdown",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "23",
+            "author": "@pateh",
+            "url": "https://discourse.elm-lang.org/t/improving-compile-times-on-0-18/741",
+            "title": "Improving Compile Times on 0.18",
+            "summary": "A trick for speeding up your Elm builds",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "23",
+            "author": "appleflaxen",
+            "url": "https://paulfioravanti.com/blog/2018/02/08/connecting-elm-to-phoenix-1-3",
+            "title": "Connecting Elm to Phoenix 1.3",
+            "summary": "A guide for getting Elm setup with Phoenix",
+            "tag": "Hacker News"
+        }, 
+        {
+            "hits": "",
+            "author": "mikeonslow",
+            "url": "https://github.com/mikeonslow/elm-google-charts-example",
+            "title": "elm-google-charts-example",
+            "summary": "Proof of concept for using Elm and Google Charts together",
+            "tag": "Github"
+        }, 
+        {
+            "hits": "",
+            "author": "mfeineis",
+            "url": "https://github.com/mfeineis/elm-legacy-browser-setup",
+            "title": "elm-legacy-browser-setup",
+            "summary": "A minimal Elm 0.18 setup that supports IE8+",
+            "tag": "Github"
+        }
+    ]
+}
