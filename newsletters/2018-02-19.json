@@ -1,0 +1,39 @@
+{
+    "start_date": "February 12",
+    "end_date": "February 18",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "44",
+            "author": "pzp1997",
+            "url": "https://github.com/pzp1997/elm-ios",
+            "title": "elm-ios",
+            "summary": "A Google Summer of Code 2017 for bringing the wonders of Elm to the iOS platform",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "Alexander Campbell",
+            "url": "https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834",
+            "title": "Elm changed my mind about unpopular languages",
+            "summary": "A good read on why you should give Elm a chance even if you are skeptical at first",
+            "tag": "Medium"
+        },
+        {
+            "hits": "26",
+            "author": "@mattpiz Matthieu Pizenberg",
+            "url": "https://discourse.elm-lang.org/t/package-for-mouse-touch-pointer-wheel-and-drag-apis/704",
+            "title": "elm-pointer-events",
+            "summary": "A package for mouse, touch, pointer, wheel and drag APIs",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "25",
+            "author": "pachyc",
+            "url": "https://www.reddit.com/r/elm/comments/7wwo8q/a_chrome_extension_tab_manager_written_in_elm/",
+            "title": "Top-Tomato",
+            "summary": "A chrome extension (tab manager) written in Elm",
+            "tag": "reddit"
+        }
+    ]
+}
