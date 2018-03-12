@@ -1,0 +1,39 @@
+{
+    "start_date": "February 26",
+    "end_date": "March 04",
+    "year": "2018",
+    "articles": [
+        {
+            "url": "https://medium.com/@voorkanter/a-low-poly-water-shader-in-elm-webgl-7a7a131e2733",
+            "title": "A low poly water shader in Elm WebGL",
+            "author": "voorkanter",
+            "tag": "reddit",
+            "hits": "47",
+            "summary": "A tutorial showing how to create a shader that animates waves like the ocean"
+        },
+        {
+            "url": "https://www.reddit.com/r/elm/comments/80etpt/ann_elm_bootstrap_400_released/",
+            "title": "Elm Bootstrap 4.0.0",
+            "author": "hufsetufs",
+            "tag": "reddit",
+            "hits": "45",
+            "summary": "Updated to work with Twitter Bootstrap 4.0"
+        },
+        {
+            "url": "https://notes.eellson.com/2018/02/26/offline-post-requests-with-elm-and-service-worker/",
+            "title": "Offline POST Requests with Elm and Service Worker",
+            "author": "eellson",
+            "tag": "Hacker News",
+            "hits": "38",
+            "summary": "A tutorial on using service workers to handle offline requests and retrys"
+        },
+        {
+            "url": "https://github.com/Zinggi/elm-hash-icon",
+            "title": "elm-hash-icon",
+            "author": "Zinggi",
+            "tag": "Github",
+            "hits": "",
+            "summary": "A library for creating consistent, good looking, random icons"
+        }
+    ]
+}
