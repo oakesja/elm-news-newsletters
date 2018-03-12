@@ -1,0 +1,47 @@
+{
+    "start_date": "March 05",
+    "end_date": "March 11",
+    "year": "2018",
+    "articles": [
+        {
+            "url": "https://discourse.elm-lang.org/t/native-code-in-0-19/826",
+            "title": "\"Native Code\" in 0.19",
+            "author": "@evancz Evan",
+            "tag": "Discourse",
+            "hits": "47",
+            "summary": "Evan explains why native code will be going away in 0.19"
+        },
+        {
+            "url": "https://medium.com/@ce40f82773eb/3da0272b27c6",
+            "title": "Why style-elements",
+            "author": "jonathanfishbein1",
+            "tag": "medium",
+            "hits": "38",
+            "summary": "Why style-elments can change your way of thinking about current CSS practices"
+        },
+        {
+            "url": "https://medium.com/@ghivert/functional-programming-components-do-not-exist-4970b8e38d47",
+            "title": "Functional Programming: Components do not exist",
+            "author": "ghivert",
+            "tag": "medium",
+            "hits": "35",
+            "summary": "Focusing on the view deriving data from a model and not the other way around"
+        },
+        {
+            "url": "https://medium.com/@yiyisun/elm-architecture-in-8-lines-of-typescript-d5a33aca75c1",
+            "title": "Elm Architecture in 8 lines of TypeScript",
+            "author": "yysun",
+            "tag": "medium",
+            "hits": "32",
+            "summary": "Developing applications using the Elm architecture, events and components"
+        },
+        {
+            "url": "http://gampleman.eu/post/171567093310/implementing-vdom-in-elm",
+            "title": "Implementing VDOM in Elm",
+            "author": "Jakub Hampl",
+            "tag": "gampleman.eu",
+            "hits": "",
+            "summary": "A neat writeup on how you could replace Elm's VDOM using ports"
+        }
+    ]
+}
