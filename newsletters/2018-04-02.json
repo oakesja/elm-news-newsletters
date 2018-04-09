@@ -1,0 +1,47 @@
+{
+    "start_date": "March 26",
+    "end_date": "April 01",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "46",
+            "author": "@gampleman Jakub Hampl",
+            "url": "https://discourse.elm-lang.org/t/project-proposal-compiler-for-libraries/1049",
+            "title": "Project Proposal: Compiler for libraries",
+            "summary": "Compile elm libraries to be used by JavaScript code",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "45",
+            "author": "jdemler",
+            "url": "https://www.curry-software.com/en/blog/a_solution_to_the_elm-config_conundrum/",
+            "title": "A Solution to the elm config conundrum",
+            "summary": "Using elm-make with multiple files for configuration",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "38",
+            "author": "Skinney",
+            "url": "https://dev.to/skinney/de-throning-the-list-2fjk",
+            "title": "De-throning the List",
+            "summary": "Replacing lists with arrays",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "30",
+            "author": "@rlopezc Romario L\u00f3pez",
+            "url": "https://discourse.elm-lang.org/t/elm-webpack-4-starter-template/1044",
+            "title": "elm-webpack-4-starter",
+            "summary": "A Webpack 4 setup for writing elm apps with live reloading",
+            "tag": "Discourse"
+        }, 
+        {
+            "hits": "",
+            "author": "utkarshkukreti",
+            "url": "https://discourse.elm-lang.org/t/elm-remotedev-elm-redux-devtools-extension-integration/996",
+            "title": "elm-remotedev",
+            "summary": "elm integration with Redux DevTools Extension",
+            "tag": "Discourse"
+        }
+    ]
+}
