@@ -1,0 +1,39 @@
+{
+    "start_date": "April 09",
+    "end_date": "April 15",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "50",
+            "author": "@hecrj H\u00e9ctor Ram\u00f3n",
+            "url": "https://discourse.elm-lang.org/t/a-form-api-idea-proposal/1121",
+            "title": "A form API idea/proposal",
+            "summary": "Streamlining form handling",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "47",
+            "author": "jxxcarlson",
+            "url": "https://medium.com/@jxxcarlson/requests-in-elm-just-fill-in-the-blanks-de6dcd26021e",
+            "title": "Requests in Elm: Just fill in the blanks",
+            "summary": "Reducing boilerplate when making HTTP requests",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "26",
+            "author": "@brian Brian",
+            "url": "https://discourse.elm-lang.org/t/elm-conf-returns-september-26-2018/1100",
+            "title": "Elm-conf returns September 26 2018!",
+            "summary": "Register today to be a speaker",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "w0rm",
+            "url": "https://github.com/w0rm/elm-font-dimensions",
+            "title": "elm-font-dimensions",
+            "summary": "Visualize dimensions of a variable font in the browser",
+            "tag": "Github"
+        }
+    ]
+}
