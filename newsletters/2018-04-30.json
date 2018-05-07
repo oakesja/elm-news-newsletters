@@ -1,0 +1,39 @@
+{
+    "start_date": "April 23",
+    "end_date": "April 29",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "40",
+            "author": "rbanffy",
+            "url": "https://dev.to/elmupdate/implementing-elm-toasts-3p7k",
+            "title": "Toasty",
+            "summary": "Implementing toasts in Elm",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "37",
+            "author": "puemos",
+            "url": "https://medium.com/@puemos/dos-and-donts-while-trying-to-persuade-functional-programming-69a472c28580",
+            "title": "Dos and don\u2019ts while trying to persuade functional programming.",
+            "summary": "Convincing your teammates to adopt functional programming",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "Microsoft",
+            "url": "https://github.com/Microsoft/elm-json-tree-view",
+            "title": "elm-json-tree-view",
+            "summary": "A library for Elm that shows JSON data as an expandable HTML tree",
+            "tag": "github"
+        },
+        {
+            "hits": "32",
+            "author": "t0ha",
+            "url": "https://medium.com/3-elm-erlang-elixir/spa-in-elm-part-2-1908623429fe",
+            "title": "SPA in Elm: Part 2",
+            "summary": "Screen based routing with navigation",
+            "tag": "reddit"
+        }
+    ]
+}
