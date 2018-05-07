@@ -1,0 +1,31 @@
+{
+    "start_date": "April 30",
+    "end_date": "May 06",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "56",
+            "author": "@unsoundscapes Andrey Kuzmin",
+            "url": "https://discourse.elm-lang.org/t/3d-physics-engine/1206",
+            "title": "3D Physics Engine",
+            "summary": "Highly experimental toy physics engine written in Elm",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "thread",
+            "url": "https://github.com/thread/elm-web-components",
+            "title": "elm-web-components",
+            "summary": "Wrap your Elm applications up in a web component",
+            "tag": "Github"
+        },
+        {
+            "hits": "24",
+            "author": "@alexkorban Alex Korban",
+            "url": "https://korban.net/elm/elmstatic/",
+            "title": "Elmstatic",
+            "summary": "An Elm-to-HTML static site generator",
+            "tag": "korban.net"
+        }
+    ]
+}
