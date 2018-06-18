@@ -1,0 +1,39 @@
+{
+    "start_date": "May 21",
+    "end_date": "May 27",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "26",
+            "author": "roadbeats",
+            "url": "http://azer.bike/journal/elm/",
+            "title": "The Hitchhiker's Guide to Elm",
+            "summary": "Another nice beginner's guide to elm",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "gbtb",
+            "url": "https://gbtb.github.io/elm-gen/",
+            "title": "elm-gen",
+            "summary": "Generate JSON decoders and encoders from a model",
+            "tag": "github"
+        },
+        {
+            "hits": "",
+            "author": "JoelQ",
+            "url": "https://github.com/JoelQ/elm-web-platform-how-to",
+            "title": "How to Web Platform in Elm",
+            "summary": "Meta guide on how to use various parts of the web platform in Elm",
+            "tag": "github"
+        },
+        {
+            "hits": "",
+            "author": "Blake Wilson",
+            "url": "https://yellowpapersun.com/elm/blog/post9.html",
+            "title": "Writing a Chrome extension with Elm",
+            "summary": "Using Elm to created a bookmark snapshot extension",
+            "tag": "yellowpapersun.com"
+        }
+    ]
+}
