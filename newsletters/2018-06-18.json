@@ -1,0 +1,47 @@
+{
+    "start_date": "June 11",
+    "end_date": "June 17",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "51",
+            "author": "@ner_d Dolp",
+            "url": "https://reiner-dolp.github.io/elm-badges-website/",
+            "title": "Badges for Elm Packages",
+            "summary": "Add Elm specefic badges to your packages!",
+            "tag": "Github"
+        },
+        {
+            "hits": "40",
+            "author": "alexkorban",
+            "url": "https://korban.net/posts/elm/2018-06-14-modules-in-elm/",
+            "title": "Using modules in Elm",
+            "summary": "To write more maintainable code",
+            "tag": "reddit"
+        },
+        {
+            "hits": "35",
+            "author": "Zinggi57",
+            "url": "https://nokey.xyz/",
+            "title": "NoKey, a Password Manager Without a Master Password",
+            "summary": "Written mostly in Elm",
+            "tag": "reddit"
+        },
+        {
+            "hits": "28",
+            "author": "@brian Brian",
+            "url": "https://discourse.elm-lang.org/t/elm-conf-speakers-are-here/1378",
+            "title": "Elm-conf speakers are here!",
+            "summary": "Check out who will be speaking at Elm-conf 2018",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "25",
+            "author": "ezstar",
+            "url": "https://bendyworks.com/blog/ionic-4-elm",
+            "title": "Web Components with Ionic 4 and Elm: Promises and Pitfalls",
+            "summary": "A primer for writing web components in Elm",
+            "tag": "Hacker News"
+        }
+    ]
+}
