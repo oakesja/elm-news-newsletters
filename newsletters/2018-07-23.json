@@ -1,0 +1,31 @@
+{
+    "start_date": "July 16",
+    "end_date": "July 22",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "37",
+            "author": "Elm Europe",
+            "url": "https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG",
+            "title": "Elm Europe Talks",
+            "summary": "All 20 Elm Europe Talks are now available",
+            "tag": "YouTube"
+        },
+        {
+            "hits": "24",
+            "author": "@Viir Michael R\u00e4tzel",
+            "url": "https://discourse.elm-lang.org/t/drts-game-master-the-art-of-war/1534",
+            "title": "DRTS Game - Master The Art Of War",
+            "summary": "A real-time strategy game created with Elm",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "zwilias",
+            "url": "https://github.com/zwilias/elm-xref",
+            "title": "elm-xref",
+            "summary": "Experimental tool for finding unused functions/finding usages",
+            "tag": "Github"
+        }
+    ]
+}
