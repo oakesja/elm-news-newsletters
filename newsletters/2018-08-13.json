@@ -1,0 +1,39 @@
+{
+    "start_date": "August 06",
+    "end_date": "August 12",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "21",
+            "author": "pinkyabuse",
+            "url": "https://medium.com/@zenitram.oiram/graphqelm-optional-arguments-in-a-language-without-optional-arguments-d8074ca3cf74",
+            "title": "Graphqelm: Optional arguments in a language without optional arguments",
+            "summary": "A tutorial on using the Graphqlelmp packages",
+            "tag": "medium"
+        }, 
+        {
+            "hits": "",
+            "author": "dillonkearns",
+            "url": "https://github.com/dillonkearns/idiomatic-elm-package-guide",
+            "title": "Idiomatic Elm Package Guide",
+            "summary": "Everything you need to know to publish a useful, idiomatic Elm package!",
+            "tag": "github"
+        }, 
+        {
+            "hits": "",
+            "author": "gizra",
+            "url": "https://www.gizra.com/podcast/the-shape-of-code/",
+            "title": "[Podcast] The Shape of Code - Elm from Several Perspectives",
+            "summary": "How Elm helps and informs work on projects",
+            "tag": "gizra"
+        },
+        {
+            "hits": "",
+            "author": "Robin Hansen",
+            "url": "https://dev.to/skinney/the-case-for-replacing-arrayslice-4gfc",
+            "title": "The case for replacing Array.slice",
+            "summary": "Why and some alternatives",
+            "tag": "dev.to"
+        }
+    ]
+}
