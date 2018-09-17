@@ -1,0 +1,47 @@
+{
+    "start_date": "August 20",
+    "end_date": "August 26",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "89",
+            "author": "Evan",
+            "url": "https://elm-lang.org/blog/small-assets-without-the-headache",
+            "title": "Small Assets without the Headache",
+            "summary": "Elm 0.19 released and with it minification, dead code elminations and a faster compiler!",
+            "tag": "elm-lang.org"
+        },
+        {
+            "hits": "75",
+            "author": "alexkorban",
+            "url": "https://korban.net/posts/elm/2018-08-22-elm-019-whats-new-install-upgrade/",
+            "title": "Elm 0.19: details of what's new, how to install/upgrade, reading list",
+            "summary": "A detailed list of all the changes to Elm 0.19",
+            "tag": "reddit"
+        },
+        {
+            "hits": "",
+            "author": "Robin Heggelund Hansen",
+            "url": "https://dev.to/skinney/elm-019-brings-better-collections-3320",
+            "title": "Elm 0.19 Brings Better Collections",
+            "summary": "See what changed with List, Array, Dict and Set",
+            "tag": "dev.to"
+        },
+        {
+            "hits": "41",
+            "author": "maxhallinan",
+            "url": "https://dev.to/kspeakman/elm-019-broke-us--khn",
+            "title": "Elm 0.19 Broke Us",
+            "summary": "Removal of custom operators and native modules",
+            "tag": "dev.to"
+        },
+        {
+            "hits": "41",
+            "author": "@Sidney Sidney Nemzer",
+            "url": "https://discourse.elm-lang.org/t/pure-elm-text-editor/1709",
+            "title": "elm-text-editor",
+            "summary": "A text editor written completely in Elm ",
+            "tag": "Discourse"
+        }
+    ]
+}
