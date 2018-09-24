@@ -1,0 +1,39 @@
+{
+    "start_date": "September 10",
+    "end_date": "September 16",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "44",
+            "author": "opvasger",
+            "url": "https://github.com/opvasger/elm-minify",
+            "title": "elm-minify",
+            "summary": "Minify compiled Elm modules! 📦",
+            "tag": "Github"
+        },
+        {
+            "hits": "",
+            "author": "rogeriochaves",
+            "url": "https://github.com/rogeriochaves/spades",
+            "title": "Spades",
+            "summary": "A framework for Elm that helps you quickly start a SPA ready to the real world",
+            "tag": "Github"
+        },
+        {
+            "hits": "",
+            "author": "Chadtech",
+            "url": "https://github.com/Chadtech/elm-css-grid",
+            "title": "elm-css-grid",
+            "summary": "A simple css grid system for Elm",
+            "tag": "Github"
+        },
+        {
+            "hits": "",
+            "author": "hakonrossebo",
+            "url": "https://github.com/hakonrossebo/elmdocs",
+            "title": "elmdocs",
+            "summary": "Elm documentation helper from the REPL",
+            "tag": "Github"
+        }
+    ]
+}
