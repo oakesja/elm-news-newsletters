@@ -1,0 +1,39 @@
+{
+    "start_date": "October 08",
+    "end_date": "October 14",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "39",
+            "author": "Evan Czaplicki",
+            "url": "https://www.youtube.com/watch?v=o_4EX4dPppA",
+            "title": "The Hard Parts of Open Source",
+            "summary": "\"A cultural history of open source\" that may reveal a path to more civil and productive online communication in general",
+            "tag": "Youtube"
+        },
+        {
+            "hits": "27",
+            "author": "hkgumbs",
+            "url": "https://kofi.sexy/blog/elm-beam",
+            "title": "elm-beam",
+            "summary": "An Elm compiler for the Erlang Virtual Machine",
+            "tag": "Hacker News"
+        },
+        {
+            "hits": "26",
+            "author": "@jwoLondon",
+            "url": "https://discourse.elm-lang.org/t/i-made-a-machine/2201",
+            "title": "I made a machine",
+            "summary": "Web-based Turing Machine for teaching and learning written in Elm",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "Korban",
+            "url": "https://korban.net/posts/elm/2018-10-12-elm-guide-missing-part-url-handling-browser.application/",
+            "title": "The missing part of the Elm guide",
+            "summary": "URL handling with Browser.application",
+            "tag": "korban.net"
+        }
+    ]
+}
