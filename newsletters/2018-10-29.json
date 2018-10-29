@@ -1,0 +1,31 @@
+{
+    "start_date": "October 22",
+    "end_date": "October 28",
+    "year": "2018",
+    "articles": [
+        {
+            "hits": "23",
+            "author": "@Malax Manuel Fuchs",
+            "url": "https://discourse.elm-lang.org/t/elmboy-a-nintendo-game-boy-emulator/2323",
+            "title": "Elmboy",
+            "summary": "A Nintendo Game Boy emulator written in Elm",
+            "tag": "Discourse"
+        },
+        {
+            "hits": "",
+            "author": "alex-tan",
+            "url": "https://github.com/alex-tan/loadable",
+            "title": "loadable package",
+            "summary": "Separate the initial loading of your data from the rest of your Elm app",
+            "tag": "Github"
+        }, 
+        {
+            "hits": "",
+            "author": "Héctor Ramón",
+            "url": "https://dev.to/hecrj/use-opaque-types-in-elm-3oal",
+            "title": "Use opaque types in Elm!",
+            "summary": "Making Elm code safer and easier to understand with opaque types",
+            "tag": "dev.to"
+        }
+    ]
+}
